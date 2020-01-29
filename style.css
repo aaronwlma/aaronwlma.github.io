@@ -23,6 +23,13 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
+.professional-title {
+    font-weight: normal;
+    line-height: 0.5;
+}
+.professional-location {
+    font-size: 16px;
+}
 #back-to-home {
     line-height: 3;
 }
