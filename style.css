@@ -4,7 +4,7 @@ body {
     font-size: 16px;
 }
 .header {
-    padding: 20px;
+    padding: 20px 20px 0px 20px;
     text-align: center;
 }
 .profile {
@@ -12,6 +12,7 @@ body {
 }
 .profile-name {
     margin-top: 5px;
+    margin-bottom: 0.25em;
     font-size: 36px;
 }
 .content {
