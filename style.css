@@ -23,7 +23,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
-.professional-title {
+.table-title {
     font-weight: normal;
     line-height: 1.25;
     margin-block-start: 0.25em;
@@ -42,6 +42,12 @@ footer {
     font-size: 12px;
     margin-block-start: 0.5em;
     margin-block-end: 0.5em;
+}
+table {
+    width: 100%;
+    thead {
+        width: 100%;
+    }
 }
 p {
     font-size: 16px;
