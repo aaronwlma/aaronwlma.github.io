@@ -3,6 +3,9 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 16px;
 }
+footer {
+    text-align: center;
+}
 .header {
     padding: 20px 20px 0px 20px;
     text-align: center;
@@ -19,6 +22,16 @@ body {
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
+}
+#back-to-home {
+    line-height: 3;
+}
+.footer-contact {
+    line-height: 1;
+}
+.footer-text {
+    line-height: 0.5;
+    font-size: 12px;
 }
 p {
     font-size: 16px;
