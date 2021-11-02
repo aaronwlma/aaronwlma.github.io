@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-blog-js",
+    "path": "/blog/",
+    "result": {"data":{"blog":{"posts":[{"fields":{"slug":"/2018-08-24-Finding-the-Worth-in-the-Things-I-Do/"},"frontmatter":{"date":"3 years ago","title":"Finding the Worth in the Things I Do","author":"Aaron Ma"},"excerpt":"Wow it’s been two months since I last updated. I assure you, that is mainly due in part to laziness, not because I haven’t done anything…","id":"7d487de3-c8c5-5ef0-ba56-608abad001d9"},{"fields":{"slug":"/2020-06-15-One-Step-Four-Years-in-the-Making/"},"frontmatter":{"date":"a year ago","title":"Face to Face - One Step Four Years in the Making","author":"Aaron Ma"},"excerpt":"I remember sitting at my desk back in 2016 during my contracted time at Facebook thinking, “this is it, but, this is also not it.“ I had…","id":"20d2d299-f95a-5e9a-b31b-ab515de4f37b"}]}},"pageContext":{}},
+    "staticQueryHashes": []}
