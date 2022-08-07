@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkaaronwlma_github_io=self.webpackChunkaaronwlma_github_io||[]).push([[682],{518:function(e,t,l){l.r(t);var n=l(294);t.default=function(){return n.createElement("main",null,n.createElement("title",null,"About Me"),n.createElement("h1",null,"About Me"),n.createElement("p",null,"Hi there! I'm the proud creator of this site, which I built with Gatsby."))}}}]);
-//# sourceMappingURL=component---src-pages-about-js-ea31ede9bb27f5764b94.js.map

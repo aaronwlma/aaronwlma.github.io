@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkaaronwlma_github_io=self.webpackChunkaaronwlma_github_io||[]).push([[678],{704:function(e,t,l){l.r(t);var n=l(294);t.default=function(){return n.createElement("main",null,n.createElement("title",null,"Home Page"),n.createElement("h1",null,"Welcome to Aaron's website!"),n.createElement("p",null,"'Tis a W.I.P."))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-0c2cd79976aab8aaac50.js.map
