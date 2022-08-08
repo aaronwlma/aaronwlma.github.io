@@ -16,6 +16,7 @@ But I wouldn’t have been able to live with myself if I left such a dream as a 
 
 [https://aaronwlma.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-14-at-4.24.04-PM-1536x1004.png]
 Me, making a lofty promise back in 2016 to return.
+
 But today, I am more than happy to let y’all know that my fear of making a mistake comes to an end.  Because just three weeks ago, on May 19th, 2020, I was extended an offer for a new position as a Production Engineer at Facebook in Menlo Park under their Discover Production Engineering program!  Woohoo!  Yay!  Ahhh!  Ehhhh!  Hohooooo!
 
 SO.  In this post today, in addition to announcing that I will be re-migrating to NorCal this coming August, I would like to drop three key takeaways that I’ve clung to during the past two years of self-study.  I’m hoping that they may perhaps be encouraging to you.  If ya don’t vibe with that, feel free to finish reading here!  S’all good, I get it, it’s a freakin’ saga.  No need to feel obligated.  But for all y’all who love diarrhea of the mouth, buckle up cause we embarkin’ on an adventure today, hehe.
@@ -29,6 +30,7 @@ This was Mr. Dreamer’s mistake.  “Transition my career to software engineeri
 
 [https://aaronwlma.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-14-at-4.30.22-PM.png]
 Black boxes mean I did all the hours I committed to doing, the minus number is how many hours I missed for that week.
+
 Anything stick out in particular?  Yup, surprise, surprise!  It did not take nine months (ANOTHER SHOCKER).  It took 22.  This whiteboard is great because it shows a lot of information, but what it doesn’t show is the HUGE problem that I created for myself behind the scenes.
 
 Boldly proclaiming a goal, only to miss it four times in a row, sucks.  You trap yourself into a position where you’re either a liar or a quitter.  Dunno about all y’all, but that was a lose-lose situation that I found myself in constant battle with each and every day for two years.
