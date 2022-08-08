@@ -1,0 +1,12 @@
+# Sample site navigation links
+
+- title: Home
+  url: /
+- title: Categories
+  url: /categories/
+- title: Sheets
+  url: /sheets/
+- title: About
+  url: /about/
+- title: Search
+  url: /search/

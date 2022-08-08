@@ -17,41 +17,50 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
+skin: "/assets/css/skins/dark.css"
+locale: en-US
+title: "Aaron Ma"
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+logo: "/images/blue-bird-icon.png" # path of site logo, e.g. "/assets/images/logo.png"
+date_format: "%B %-d, %Y"
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+# twitter_username: jekyllrb
+# github_username:  aaronwlma
 
 # Build settings
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 
-skin: "/assets/css/skins/dark.css"
+# Site Author
+author: 
+  name: Aaron Ma
+  picture: /images/profile-picture-thumbnail.jpg
+  email: 
+  twitter: 
+  links:
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Footer Links
+footer_links:
+  - title: Facebook
+    url: https://facebook.com/its.aaronma
+    icon: fab fa-facebook-square
+  - title: Instagram
+    url: https://www.instagram.com/manameisaaron/
+    icon: fab fa-instagram
+  - title: YouTube
+    url: https://www.youtube.com/channel/UC34F7bTPnufiMYogDa6YGjg
+    icon: fab fa-youtube
+  - title: Twitch
+    url: https://twitch.tv/aimfy
+    icon: fab fa-twitch
+  - title: GitHub
+    url: https://github.com/aaronwlma
+    icon: fab fa-github-square
