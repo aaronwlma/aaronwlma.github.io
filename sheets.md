@@ -4,7 +4,7 @@ title: Sheets
 permalink: /sheets/
 ---
 
-Hola.  This is a work-in-progress page.
+I am a fan of providing sheets whenever possible.  Here are a few of those sheets that I've written in the past for passion projects, church worship, and other events.
 
 ### Worship Accompaniments:
 
@@ -60,7 +60,6 @@ Hola.  This is a work-in-progress page.
 |  | | | |
 
 ### Other:
-
 
 | Name | Instrumentation | Last Edited | Links |
 |------|-----------------|-------------|-------|
