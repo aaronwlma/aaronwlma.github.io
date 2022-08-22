@@ -14,6 +14,7 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | Anchored | | String Quartet | FCBC Walnut | PDF / Demo |
 | Before the Throne of God Above | | String Trio | FCBC Walnut | PDF / Demo |
 | By Faith | | String Trio | FCBC Walnut | PDF / Demo |
+| Christ is Mine Forevermore | | Solo Violin | Berean | PDF / Demo |
 | Christ Our Hope in Life and Death | | String Quartet | FCBC Walnut | PDF / Demo |
 | Christ the Sure and Steady Anchor | | String Trio | FCBC Walnut | PDF / Demo |
 | Christmas Offering | | String Trio | FCBC Walnut | PDF / Demo |
@@ -25,9 +26,11 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | Grace Alone | | Solo Violin | Berean | PDF / Demo |
 | His Mercy is More | | String Quintet | FCBC Walnut | PDF / Demo |
 | How Great Thou Art | | String Quartet | FCBC Walnut | PDF / Demo |
+| I Stand Amazed (How Marvelous) | | Solo Violin | Berean | PDF / Demo |
 | I Will Glory in My Redeemer | | String Quartet | FCBC Walnut | PDF / Demo |
 | In Christ Alone | | String Quartet | FCBC Walnut | PDF / Demo |
 | In the Cross Alone I Glory | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
+| Jesus Paid It All | | Solo Violin | Berean | PDF / Demo |
 | Jesus, Strong and Kind | | String Quartet | FCBC Walnut | PDF / Demo |
 | Joy to the World (Joyful, Joyful) | | String Trio | FCBC Walnut | PDF / Demo |
 | King of Love | | Solo Violin | Berean | PDF / Demo |
@@ -52,6 +55,7 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | Trust in Him at All Times | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | Worthy | | Solo Violin | Berean | PDF / Demo |
 | Yet Not I But Through Christ in Me | | String Quartet | FCBC Walnut | PDF / Demo |
+| Your Grace is Enough | | Solo Violin | Berean | PDF / Demo |
 
 ### Anime:
 
