@@ -28,6 +28,7 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | How Great Thou Art | | String Quartet | FCBC Walnut | PDF / Demo |
 | I Stand Amazed (How Marvelous) | | Solo Violin | Berean | PDF / Demo |
 | I Will Glory in My Redeemer | | String Quartet | FCBC Walnut | PDF / Demo |
+| I Will Wait For You | | String Trio | FCBC Walnut | PDF / Demo |
 | In Christ Alone | | String Quartet | FCBC Walnut | PDF / Demo |
 | In the Cross Alone I Glory | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | Jesus Paid It All | | Solo Violin | Berean | PDF / Demo |
@@ -62,7 +63,6 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | Name | Anime | Instrumentation | Links |
 |------|-------|-----------------|-------|
 | 17-Sai | Irozuku Sekai no Ashita kara | Band & String Ensemble | PDF / Demo |
-| A Town With an Ocean View | Kiki's Delivery Service | String Quartet | PDF / Demo |
 | Boku ni Hikari wo Kuretanda | 22/7 | Piano & String Ensemble | PDF / Demo |
 | Deeto | Kimi no Na wa | String Quartet | PDF / Demo |
 | Gake no Ue no Ponyo | Gake no Ue no Ponyo | String Quartet | PDF / Demo |
@@ -75,6 +75,7 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | Tenki no Ko Medley | Tenki no Ko | Piano Quintet | PDF / Demo |
 | Tonari no Totoro | Tonari no Totoro | String Quartet | PDF / Demo |
 | Tsudzurareta Omoi | Hibike! Euphonium | Piano Quintet | PDF / Demo |
+| Umi no Mieru Machi | Majo no Takyuubin | String Quartet | PDF / Demo |
 | Zen Zen Zense | Kimi no Na Wa | Piano Quartet | PDF / Demo | 
 
 
