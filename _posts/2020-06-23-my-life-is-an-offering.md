@@ -33,47 +33,95 @@ excerpt: "Production note for the arrangement of \"My Life is an Offering\" for 
     <figcaption>My Life is An Offering (MIDI Demo)</figcaption>
 </figure>
 
-Sheet music and MIDI generated demo for this arrangement can be found here.
+Sheet music and MIDI generated demo for this arrangement can be found <a href="/sheets">here</a>.
+
+<hr>
 
 And I’m back!  Again!  Yes I am using that opener again!  It’s almost like I’ve run out of creative ideas (I did)!  But if I keep throwing exclamation points out, then maybe it’ll look fresh and new (it doesn’t)!  Yay!  Woohoo!
 
 Lol (another “lol” transition?!).   Jokes aside (AGH), I am indeed back for another blurb.  This time, I had the privilege once again to write an arrangement for FCBC’s remote response worship, “My Life is An Offering.”  I remember when our worship leader Aaron L. wanted to play his reinterpretation of “My Faith Has Found a Resting Place” for FCBC worship back in 2019, he very clearly stated “no country music.”  And I remember sitting in Matthew’s apartment in LA just thinking, “how do I even do that, with such a swinging motion?”  The result of that endeavor was that once Matthew returned from his Aida performance, Matthew and I had to rely on the music of the night to fill in the few blanks in that arrangement.  T’was quite a challenge that I learned a lot from.
 
-This time around though, there was no specific requirement to meet, for the better or worse.  So when I first heard the piece, I thought that there was a nice little swing vibe goin’ that was pretty nice.  So I mildly amused myself in thinkin’ about possibly putting some country swings and scoops in, since there was no criteria and all yanno?  But once I heard Joyce’s cajon added to the mix, my amusement became pretty much a requirement.  I felt like it would be a huge waste of everyone’s effort if I did not match their musical interpretation, and so, after a year of writing arrangements here and there for FCBC Walnut, I finally got a chance to indulge slightly in a style of fiddlin’ that I personally find quite exhilarating to muse around in.
+This time around though, there was no specific requirement to meet, for the better or worse.  So when I first heard the piece, I thought that there was a nice little swing vibe goin’ that was pretty nice.  So I mildly amused myself in thinkin’ about possibly putting some country swings and scoops in, since there was no criteria and all yanno?  But once I heard Joyce’s cajon added to the mix, **my amusement became pretty much a requirement.  I felt like it would be a huge waste of everyone’s effort if I did not match their musical interpretation**, and so, after a year of writing arrangements here and there for FCBC Walnut, I finally got a chance to indulge slightly in a style of fiddlin’ that I personally find quite exhilarating to muse around in.
 
 So, here are five little ways that I focused in on this time around to get that country vibin’ goin, kinda.
 
-VIBE #1:  SLIDIN’ AND SCOOPIN’
+# Vibe #1: Slidin' and Scoopin'
 Here’s a couple of scoops that I littered across the piece.
 
-Figure 1:  Scoopin’ in the Chorus
-Figure 1: Scoopin’ in the Chorus
+<figure class="align-center">
+  <img src="/images/2020/06/23/fig-1-scoopin-in-the-chorus.png" alt="">
+  <figcaption><i>Figure 1: Scoopin' in the Chorus</i></figcaption>
+</figure> 
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/excerpt-1-scoopin-in-the-chorus.mp3">
+    </audio>
+    <figcaption>Excerpt 1: Scoopin' in the Chorus</figcaption>
+</figure>
 
-Figure 2:  Scoopin’ in the First Interlude
-Figure 2: Scoopin’ in the First Interlude
+<figure class="align-center">
+  <img src="/images/2020/06/23/fig-2-scoopin-in-the-first-interlude.png" alt="">
+  <figcaption><i>Figure 2: Scoopin' in the First Interlude</i></figcaption>
+</figure> 
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/excerpt-2-scoopin-in-the-first-interlude.mp3">
+    </audio>
+    <figcaption>Excerpt 2: Scoopin' in the First Interlude</figcaption>
+</figure>
 
-Figure 3:  Scoopin’ In-Between Lines in the Chorus
-Figure 3: Scoopin’ In-Between Lines in the Chorus
+<figure class="align-center">
+  <img src="/images/2020/06/23/fig-3-scoopin-in-between-lines-in-the-chorus.png" alt="">
+  <figcaption><i>Figure 3: Scoopin' In-Between Lines in the Chorus</i></figcaption>
+</figure> 
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/excerpt-3-scoopin-in-between-lines-in-the-chorus.mp3">
+    </audio>
+    <figcaption>Excerpt 3: Scoopin' In-Between Lines in the Chorus</figcaption>
+</figure>
 
 It was a little annoying because Sibelius playback doesn’t pre-process, and so scooping from the front means that there is no playback representation of the scoop, and so a bit of imagination was required this time around.
 
-I think I first took notice of the scoop notation in Adam Neely’s orchestrations on his videos.  I thought it was a neat way to micromanage your musicians into playing what you wanted them to play, and so I gave the scoop notation a try.  Lol.  Disrespectful jokes aside, I think that slides/scoops are a pretty typical way of delivering that “country vibe,” so it was pretty much a given to slide and scoop when possible.
+I think I first took notice of the scoop notation in Adam Neely’s orchestrations on his videos.  I thought it was a neat way to micromanage your musicians into playing what you wanted them to play, and so I gave the scoop notation a try.  Lol.  Disrespectful jokes aside, **I think that slides/scoops are a pretty typical way of delivering that "country vibe,"** so it was pretty much a given to slide and scoop when possible.
 
 Fun side-thought, this intro was the starting point for me in terms of ideas.  The 2nd and 3rd interludes that came after were then built as a response to this idea.  And so this first bar that starts with a hard slide into the first note was actually adapted from Meguru Mono’s “Ashioto Marching.”  Looks like there’s no YT link for me to share it, so here’s the snippet that I found inspiration from:
 
-VIBE #2:  REPEATIN’ BENDY NOTES IN SUCCESS’N
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/inspiration-for-the-first-interlude-from-ashioto-marching.mp3">
+    </audio>
+    <figcaption>Inspiration for the First Interlude from Ashioto Marching</figcaption>
+</figure>
+
+
+# Vibe #2: Repeatin' Bendy Notes in Success'n
+
 Figure 4:  Bendy Repeating Notes in the Last Interlude
 Figure 4: Bendy Repeating Notes in the Last Interlude
 
 Figure 5:  Bendy Repeating Notes in the Chorus
 Figure 5: Bendy Repeating Notes in the Chorus
 
-This fiddlin’ “technique” is a little bit in tandem with “style.”  I feel like arrangers at times are afraid to repeat notes, because they are afraid of the possibility that repeating notes are too obnoxious, or that that repeating notes or phrases demonstrates a lack of creativity (like drone notes and string pads).  So, in their efforts to try and always provide something new and fresh, they completely forget that repetition could be a very powerful tool if used tastefully.
+This fiddlin' "technique" is a little bit in tandem with "style."  I feel like arrangers at times are afraid to repeat notes, because they are afraid of the possibility that repeating notes are too obnoxious, or that that repeating notes or phrases demonstrates a lack of creativity (like drone notes and string pads).  So, in their efforts to try and always provide something new and fresh, they completely forget that repetition could be a very powerful tool if used tastefully.
 
-But country vibers use it a lot.  They repeat notes (and even throw drone notes underneath it all) and rhythms quite frequently to evoke that sense of swing and head bobbin’ that we all come to love (or hate) about country fiddlin’.  These are just two examples of an instance where I hang out on a note a couple times in succession.  
+But country vibers use it a lot.  **They repeat notes (and even throw drone notes underneath it all) and rhythms quite frequently to evoke that sense of swing and head bobbin’ that we all come to love (or hate) about country fiddlin’.**  These are just two examples of an instance where I hang out on a note a couple times in succession.  
 
-VIBE #3:  TEXTURE VIA ARTICULAT’N
-Another trap that comes with writing for strings is that writers forget that strings can do more than push and pull their bows.  Or even, sometimes string players also forget that they can do more than push and pull their bows.  Lol.  The string instrument can be used for way more than just providing a string pad, and knowing how to utilize the bow techniques can give your arrangement and writing an element of texture that freshens up the piece.
+# Vibe #3: Texture Via Articulat'n
+
+Another trap that comes with writing for strings is that writers forget that strings can do more than push and pull their bows.  Or even, sometimes string players also forget that they can do more than push and pull their bows.  Lol.  **The string instrument can be used for way more than just providing a string pad, and knowing how to utilize the bow techniques can give your arrangement and writing an element of texture that freshens up the piece.**
 
 Here’s an aggressive one:
 
@@ -87,18 +135,19 @@ And here’s a tinier, but equally important one:
 Figure 7:  Articulation as a Form of Dancing in the 2nd Interlude
 Figure 7: Articulation as a Form of Dancing in the 2nd Interlude
 
-Music is generally an experience with listening, but there are times where using other sensory language can help people better understand how others experience music.  When I chat with my friends on the color of a sound, I tend to use the word “spicy.”  When I chat with my friends on how I visualize playing the violin or how parts interact with each other, I tend to use the word “dance.”
+**Music is generally an experience with listening, but there are times where using other sensory language can help people better understand how others experience music.**  When I chat with my friends on the color of a sound, I tend to use the word “spicy.”  When I chat with my friends on how I visualize playing the violin or how parts interact with each other, I tend to use the word “dance.”
 
-The phrase above to me was like a dance sequence.  We have a wind up (orange), that builds us into two short hops (green) into a mid air pose on the climax note (blue).  We then land  gracefully (pink), only to strike a pose and wink at the audience with our little scoop (brown), and then return back into our routine (yellow).  I found that when I tried to visualize my phrases as a dance number, texture via articulation comes with the territory.  Funnily enough (to myself, I guess),  I feel that when visualizations comes to mind, my personality truly begins to shine through the arrangements I write.
+The phrase above to me was like a dance sequence.  We have a wind up (orange), that builds us into two short hops (green) into a mid air pose on the climax note (blue).  We then land  gracefully (pink), only to strike a pose and wink at the audience with our little scoop (brown), and then return back into our routine (yellow).  I found that when I tried to visualize my phrases as a dance number, texture via articulation comes with the territory.  Funnily enough (to myself, I guess),  **I feel that when visualizations comes to mind, my personality truly begins to shine through the arrangements I write.**
 
-VIBE #4:  GLISTEN’N GLISSANDOS
+# Vibe #4: Glisen'n Glissandos
+
 This one is my favorite in this arrangement, but it is also not really about the country vibin’, lol.  But to set the scene, here’s a recent failure story about me that plagues me even ‘til today…
 
 Matthew participated in a Little Mermaid musical earlier this year, and the pit orchestra needed a violinist to play.  Matthew, with his confidence in me, extended that request to me.  I had confidence in his confidence in me, and so I agreed.
 
-But after looking at the music for a couple days, I was overwhelmed by the possibility of screwing it all up.  I was not accustomed to the eccentric rhythm, there were some high notes that I felt would be difficult to land consistently, and there were some string runs that I couldn’t deliver in a crisp fashion.
+But after looking at the music for a couple days, **I was overwhelmed by the possibility of screwing it all up.**  I was not accustomed to the eccentric rhythm, there were some high notes that I felt would be difficult to land consistently, and there were some string runs that I couldn’t deliver in a crisp fashion.
 
-Soooo, I backed out.  I knew that I would regret it if I backed out, but I still did.  I lost confidence in my friend’s confidence in me and that really was something that pointed out one of my short comings.  
+Soooo, I backed out.  I knew that I would regret it if I backed out, but I still did.  **I lost confidence in my friend’s confidence in me and that really was something that pointed out one of my short comings.**
 
 Buuut I did learn some things along the way.  One of those things that I learned along the way was when I was totally freakin’ out over trying to play the string runs nice and crisp-ily.  Matthew told me that I didn’t need to fret too much over them, because “they’re just mainly for texture anyway, no one’s going to be able to hear you specifically.”
 
@@ -107,12 +156,21 @@ And that came to mind when I wrote this part:
 Figure 8:  Using the Piano Glissando in Tandem with a String 32nd Note Run to Add Some Glitter
 Figure 8: Using the Piano Glissando in Tandem with a String 32nd Note Run to Add Some Glitter
 
-Did I really believe that we could play those 32nd notes crisp-ily?  Negatory, dudes.  Sorry, but I don’t have Matthew’s confidence level in my musicians.  I did not expect that we would play it cleanly.  But music is a collaborative effort, so if we all suck at playing it, we can drown each other out and create just mainly texture, and I’d like to think that goal was reached.  I also only made one request to Matthew this time around for the piano part, and that was for him to do the palm glissando during this section to maximum the impact of the glissando, so that helped hide our shortcomings :D.
+Did I really believe that we could play those 32nd notes crisp-ily?  Negatory, dudes.  Sorry, but I don’t have Matthew’s confidence level in my musicians.  I did not expect that we would play it cleanly.  But **music is a collaborative effort, so if we all suck at playing it, we can drown each other out and create just mainly texture,** and I’d like to think that goal was reached.  I also only made one request to Matthew this time around for the piano part, and that was for him to do the palm glissando during this section to maximum the impact of the glissando, so that helped hide our shortcomings :D.
 
-In an arrangement where I let a lot of thoughts through, I think this part was my absolute favorite.  It was also inspired by one of my absolute favorite piano quintet/vocal performances ever.  If you have the time, I encourage you to listen to it in its entirety, because I do play it back quite frequently.  I like it so much, I’m putting as an embed video for y’all to stare at.  But the specific part that I drew inspiration from for the gliss was here.
+In an arrangement where I let a lot of thoughts through, I think this part was my **absolute** favorite.  It was also inspired by one of my absolute favorite piano quintet/vocal performances ever.  If you have the time, I encourage you to listen to it in its entirety, because I do play it back quite frequently.  I like it so much, I’m putting as an embed video for y’all to stare at.  But the specific part that I drew inspiration from for the gliss was <a href="https://youtu.be/6f41_ZYJDsU?t=258">here</a>.
 
-
-TRUE’s Live Performance of “Sincerely” with a Piano Quintet
+<figure class="align-center">
+    <iframe
+      width="100%"
+      src="https://www.youtube.com/embed/6f41_ZYJDsU"
+      title="Sincerely / TRUE 5th Anniversary Live Sound! vol.3 ～with Strings～"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+    <figcaption>TRUE’s Live Performance of “Sincerely” with a Piano Quintet</figcaption>
+</figure>
 
 Oh, and if y’all don’t like ending stories on a sour note, no worries.  Little Mermaid ended up being a very valuable lesson to me.  A month after my failure that is Little Mermaid, another friend of mine suggested that I apply for a job position that I didn’t have confidence in meeting the requirements.  But my friend was confident in me, and I remembered the last time I didn’t trust in my friend’s confidence in me, so I thought that this time, I’d see it through the end instead of chickening out.  The result of that is that I will be moving up to the Bay Area again this upcoming August to start a new-ish career at a company that I highly regard!  Woo!  Learn from y’all mistakes guys, continual growth will keep your adventures exciting.  Just thought I’d tangent over into my career life for a bit, since I promised y’all last time that I’d let y’all know (and also I guess end up promoting my other personal website (Linky link to the post in question).
 
