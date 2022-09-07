@@ -162,7 +162,6 @@ In an arrangement where I let a lot of thoughts through, I think this part was m
 
 <figure class="align-center">
     <iframe
-      width="100%"
       height="100%"
       src="https://www.youtube.com/embed/6f41_ZYJDsU"
       title="Sincerely / TRUE 5th Anniversary Live Sound! vol.3 ～with Strings～"
@@ -175,29 +174,31 @@ In an arrangement where I let a lot of thoughts through, I think this part was m
 
 Oh, and if y’all don’t like ending stories on a sour note, no worries.  Little Mermaid ended up being a very valuable lesson to me.  A month after my failure that is Little Mermaid, another friend of mine suggested that I apply for a job position that I didn’t have confidence in meeting the requirements.  But **my friend was confident in me, and I remembered the last time I didn’t trust in my friend’s confidence in me, so I thought that this time, I’d see it through the end instead of chickening out.**  The result of that is that **I will be moving up to the Bay Area again this upcoming August to start a new-ish career at a company that I highly regard!**  Woo!  Learn from y’all mistakes guys, continual growth will keep your adventures exciting.  Just thought I’d tangent over into my career life for a bit, since I promised y’all last time that I’d let y’all know (and also I guess end up promoting my other personal website (<a href="/blog/2020/06/23/one-step-four-years-in-the-making.html">Linky link to the post in question</a>).
 
-VIBE #5:  ONE (ON’?) UNIFIED VOICE
+# Vibe #5: One (On'?) Unified Voice
+
 Alright, let’s get back on track.  This one’s the last one.  We on the home stretch guys.
 
-A key issue that I have found over the past year is that the interactions in the strings tended to get drowned out in the collective sound of the band.  It goes back to what I always say:  it ends up sounding like it’s saying a whole lot of something, but a whole lot of nothing.  The delicacy in the arrangements was not translating in the actual worship session.
+A key issue that I have found over the past year is that the interactions in the strings tended to get drowned out in the collective sound of the band.  It goes back to what I always say:  it ends up sounding like it’s saying a whole lot of something, but a whole lot of nothing.  **The delicacy in the arrangements was not translating in the actual worship session.**
 
 So we gotta adapt.  How can we fix this?  Well, the best way to do it would be in having a good, proper mix.  But since that wasn’t going to happen, perhaps then, the musicians can do something on their side to help the situation.
 
 And so, in my little music research, I guess I came up with the thought, “what if I just treat the strings as a singular voice, instead of separate voices?”  I recalled that the introduction in Anchored worked out pretty powerfully, and I recalled that our music intern said he really liked our arrangement of Oceans for praise night (but we weren’t actually playing an arrangement, we were all just playing the chords together :D).
 
-So, I hadn’t tried it deliberately before, but there was evidence to suggest that it may work out.  I also thought this was a perfect opportunity to try, because a lot of country vibin’ only has a singular voice for the string (whether it be a single violin, or single cello, etc.).  Since I ain’t just going to tell the homies to pack their bags for one song, I figured it would be a good chance for me to try writing the string parts as if they were a singular unit.
+So, I hadn’t tried it deliberately before, but there was evidence to suggest that it may work out.  I also thought this was a perfect opportunity to try, because **a lot of country vibin’ only has a singular voice for the string** (whether it be a single violin, or single cello, etc.).  Since I ain’t just going to tell the homies to pack their bags for one song, I figured it would be a good chance for me to try writing the string parts as if they were a singular unit.
 
 Figure 9:  String Parts Aligning Rhythmically to Deliver a Unified Voice in the Chorus
 Figure 9: String Parts Aligning Rhythmically to Deliver a Unified Voice in the Chorus
 
 So uh, yeah, if you listen through the arrangement, you’ll notice that the strings always play the same things. Granted, in harmony, but rhythmically, the same things.  There are a few places where I deviate from it, but in general, yeahhh.
 
-Did it work?  Did treating the strings as one singular unified voice help the situation?  I think…kinda.  I think it worked, for this piece, but I don’t think this idea is something that can apply to all worship pieces.  The benefit of writing in this manner is that the arc of the phrases in the strings is really, really clear.  But if your phrase has nothing to say, then it takes up a bunch of attention for no reason, and it becomes a waste of everyone’s time.  Fortunately, I don’t think I feel like I wasted everyone’s time this time, but the danger is definitely real.  I think at the end of the day, it is a situational style, and that when the opportunity comes, I will know whether it is a decent idea to use it or not.
+Did it work?  Did treating the strings as one singular unified voice help the situation?  I think…kinda.  I think it worked, for this piece, but I don’t think this idea is something that can apply to all worship pieces.  **The benefit of writing in this manner is that the arc of the phrases in the strings is really, really clear.  But if your phrase has nothing to say, then it takes up a bunch of attention for no reason, and it becomes a waste of everyone’s time.**  Fortunately, I don’t think I feel like I wasted everyone’s time this time, but the danger is definitely real.  I think at the end of the day, it is a situational style, and that when the opportunity comes, I will know whether it is a decent idea to use it or not.
 
-CONCLUDING REMARKS
+# Concluding Remarks
+
 Wow that was a long one, whew.  I had a lot to say this time around, and there’s actually more that I wanted to say, but for the sake of everyone’s sanity, I’ll call it quits here and end on a mm, more personal note, kinda.
 
-When I first started serving at FCBC Walnut last year in AV and worship, I had a bunch of ideas that I felt compelled to bring to the table to elevate worship.  And with every writing and idea, I felt I was blessed to be able to receive feedback and participate with people in so many different ways.  I learned how the congregation was reacting to our efforts in writing on a spiritual level, I learned how musicians viewed the things we wrote on a musical level, and I learned how people were inspired to do the things they love in spite of what their day jobs were.  That feedback and interaction drove me forward.
+When I first started serving at FCBC Walnut last year in AV and worship, I had a bunch of ideas that I felt compelled to bring to the table to elevate worship.  And with every writing and idea, **I felt I was blessed to be able to receive feedback and participate with people in so many different ways.**  I learned how the congregation was reacting to our efforts in writing on a spiritual level, I learned how musicians viewed the things we wrote on a musical level, and I learned how people were inspired to do the things they love in spite of what their day jobs were.  That feedback and interaction drove me forward.
 
-Now, as a new chapter in NorCal begins soon, I can’t help but feel a little sad to be leaving this.  If you know me, it takes me a while to really get to know people, and so I only just felt like I was starting to really begin to get to know everyone at FCBC again, even if FCBC was the church that I grew up in.  I don’t know how many more times I will be blessed with the opportunity to serve in worship with FCBC from here on, but every time I have been asked to, it has been a huge blessing for me, and so I only hope that my best efforts I pour out each time writing can be used by God in some sort of way to help others.
+Now, **as a new chapter in NorCal begins soon, I can’t help but feel a little sad to be leaving this.**  If you know me, it takes me a while to really get to know people, and so I only just felt like I was starting to really begin to get to know everyone at FCBC again, even if FCBC was the church that I grew up in.  I don’t know how many more times I will be blessed with the opportunity to serve in worship with FCBC from here on, but every time I have been asked to, it has been a huge blessing for me, and so I only hope that my best efforts I pour out each time writing can be used by God in some sort of way to help others.
 
 Until the next production note!
