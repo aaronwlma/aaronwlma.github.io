@@ -13,6 +13,26 @@ tags:
 excerpt: "Production note for the arrangement of \"My Life is an Offering\" for FCBC Walnut's remote worship."
 ---
 
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/my-life-is-an-offering-string-focus.mp3">
+    </audio>
+    <figcaption>My Life is An Offering (Quartet Focus) - Ray Tay's Team (2020.06.21)</figcaption>
+</figure>
+
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/my-life-is-an-offering-midi-demo.mp3">
+    </audio>
+    <figcaption>My Life is An Offering (MIDI Demo)</figcaption>
+</figure>
+
 Sheet music and MIDI generated demo for this arrangement can be found here.
 
 And I’m back!  Again!  Yes I am using that opener again!  It’s almost like I’ve run out of creative ideas (I did)!  But if I keep throwing exclamation points out, then maybe it’ll look fresh and new (it doesn’t)!  Yay!  Woohoo!
