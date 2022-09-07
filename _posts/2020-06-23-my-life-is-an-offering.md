@@ -160,9 +160,11 @@ Did I really believe that we could play those 32nd notes crisp-ily?  Negatory, d
 
 In an arrangement where I let a lot of thoughts through, I think this part was my **absolute** favorite.  It was also inspired by one of my absolute favorite piano quintet/vocal performances ever.  If you have the time, I encourage you to listen to it in its entirety, because I do play it back quite frequently.  I like it so much, I’m putting as an embed video for y’all to stare at.  But the specific part that I drew inspiration from for the gliss was <a href="https://youtu.be/6f41_ZYJDsU?t=258">here</a>.
 
-<figure class="align-center">
+<figure class="align-center" style="margin:0px;padding:0px;overflow:hidden">>
     <iframe
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"
+      style="overflow:hidden;height:100%;width:100%"
+      height="100%"
+      width="100%"
       src="https://www.youtube.com/embed/6f41_ZYJDsU"
       title="Sincerely / TRUE 5th Anniversary Live Sound! vol.3 ～with Strings～"
       frameborder="0"
