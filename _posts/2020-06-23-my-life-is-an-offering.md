@@ -162,7 +162,8 @@ In an arrangement where I let a lot of thoughts through, I think this part was m
 
 <figure class="align-center">
     <iframe
-      height="100%"
+      width="100%"
+      height="825"
       src="https://www.youtube.com/embed/6f41_ZYJDsU"
       title="Sincerely / TRUE 5th Anniversary Live Sound! vol.3 ～with Strings～"
       frameborder="0"
