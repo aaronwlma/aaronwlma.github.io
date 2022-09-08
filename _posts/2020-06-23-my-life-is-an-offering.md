@@ -20,7 +20,7 @@ excerpt: "Production note for the arrangement of \"My Life is an Offering\" for 
         class="align-center"
         src="/assets/2020/06/23/my-life-is-an-offering-string-focus.mp3">
     </audio>
-    <figcaption>My Life is An Offering (Quartet Focus) - Ray Tay's Team (2020.06.21)</figcaption>
+    <figcaption><i>My Life is An Offering (Quartet Focus) - Ray Tay's Team (2020.06.21)</i></figcaption>
 </figure>
 
 <figure class="align-center">
@@ -30,7 +30,7 @@ excerpt: "Production note for the arrangement of \"My Life is an Offering\" for 
         class="align-center"
         src="/assets/2020/06/23/my-life-is-an-offering-midi-demo.mp3">
     </audio>
-    <figcaption>My Life is An Offering (MIDI Demo)</figcaption>
+    <figcaption><i>My Life is An Offering (MIDI Demo)</i></figcaption>
 </figure>
 
 Sheet music and MIDI generated demo for this arrangement can be found <a href="/sheets">here</a>.
@@ -49,8 +49,8 @@ So, here are five little ways that I focused in on this time around to get that 
 Here’s a couple of scoops that I littered across the piece.
 
 <figure class="align-center">
-  <img src="/images/2020/06/23/fig-1-scoopin-in-the-chorus.png" alt="">
-  <figcaption><i>Figure 1: Scoopin' in the Chorus</i></figcaption>
+    <img src="/images/2020/06/23/fig-1-scoopin-in-the-chorus.png" alt="">
+    <figcaption><i>Figure 1: Scoopin' in the Chorus</i></figcaption>
 </figure> 
 <figure class="align-center">
     <audio
@@ -59,12 +59,12 @@ Here’s a couple of scoops that I littered across the piece.
         class="align-center"
         src="/assets/2020/06/23/excerpt-1-scoopin-in-the-chorus.mp3">
     </audio>
-    <figcaption>Excerpt 1: Scoopin' in the Chorus</figcaption>
+    <figcaption><i>Excerpt 1: Scoopin' in the Chorus</i></figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="/images/2020/06/23/fig-2-scoopin-in-the-first-interlude.png" alt="">
-  <figcaption><i>Figure 2: Scoopin' in the First Interlude</i></figcaption>
+    <img src="/images/2020/06/23/fig-2-scoopin-in-the-first-interlude.png" alt="">
+    <figcaption><i>Figure 2: Scoopin' in the First Interlude</i></figcaption>
 </figure> 
 <figure class="align-center">
     <audio
@@ -73,12 +73,12 @@ Here’s a couple of scoops that I littered across the piece.
         class="align-center"
         src="/assets/2020/06/23/excerpt-2-scoopin-in-the-first-interlude.mp3">
     </audio>
-    <figcaption>Excerpt 2: Scoopin' in the First Interlude</figcaption>
+    <figcaption><i>Excerpt 2: Scoopin' in the First Interlude</i></figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="/images/2020/06/23/fig-3-scoopin-in-between-lines-in-the-chorus.png" alt="">
-  <figcaption><i>Figure 3: Scoopin' In-Between Lines in the Chorus</i></figcaption>
+    <img src="/images/2020/06/23/fig-3-scoopin-in-between-lines-in-the-chorus.png" alt="">
+    <figcaption><i>Figure 3: Scoopin' In-Between Lines in the Chorus</i></figcaption>
 </figure> 
 <figure class="align-center">
     <audio
@@ -87,7 +87,7 @@ Here’s a couple of scoops that I littered across the piece.
         class="align-center"
         src="/assets/2020/06/23/excerpt-3-scoopin-in-between-lines-in-the-chorus.mp3">
     </audio>
-    <figcaption>Excerpt 3: Scoopin' In-Between Lines in the Chorus</figcaption>
+    <figcaption><i>Excerpt 3: Scoopin' In-Between Lines in the Chorus</i></figcaption>
 </figure>
 
 It was a little annoying because Sibelius playback doesn’t pre-process, and so scooping from the front means that there is no playback representation of the scoop, and so a bit of imagination was required this time around.
@@ -106,14 +106,35 @@ Fun side-thought, this intro was the starting point for me in terms of ideas.  T
     <figcaption>Inspiration for the First Interlude from Ashioto Marching</figcaption>
 </figure>
 
-
 # Vibe #2: Repeatin' Bendy Notes in Success'n
 
-Figure 4:  Bendy Repeating Notes in the Last Interlude
-Figure 4: Bendy Repeating Notes in the Last Interlude
+<figure class="align-center">
+    <img src="/images/2020/06/23/fig-4-bendy-repeating-notes-in-the-last-interlude.png" alt="">
+    <figcaption><i>Figure 4: Bendy Repeating Notes in the Last Interlude</i></figcaption>
+</figure> 
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/excerpt-4-bendy-repeating-notes-in-the-last-chorus.mp3">
+    </audio>
+    <figcaption><i>Excerpt 4: Bendy Repeating Notes in the Last Interlude</i></figcaption>
+</figure>
 
-Figure 5:  Bendy Repeating Notes in the Chorus
-Figure 5: Bendy Repeating Notes in the Chorus
+<figure class="align-center">
+    <img src="/images/2020/06/23/fig-5-bendy-repeating-notes-in-the-chorus.png" alt="">
+    <figcaption><i>Figure 5: Bendy Repeating Notes in the Chorus</i></figcaption>
+</figure> 
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/excerpt-5-bendy-repeating-notes-in-the-chorus.mp3">
+    </audio>
+    <figcaption><i>Excerpt 5: Bendy Repeating Notes in the Chorus</i></figcaption>
+</figure>
 
 This fiddlin' "technique" is a little bit in tandem with "style."  I feel like arrangers at times are afraid to repeat notes, because they are afraid of the possibility that repeating notes are too obnoxious, or that that repeating notes or phrases demonstrates a lack of creativity (like drone notes and string pads).  So, in their efforts to try and always provide something new and fresh, they completely forget that repetition could be a very powerful tool if used tastefully.
 
@@ -125,15 +146,38 @@ Another trap that comes with writing for strings is that writers forget that str
 
 Here’s an aggressive one:
 
-Figure 6:  Tremelos in Contrast to the Fat Quarter Notes in the Bridge
-Figure 6: Tremelos in Contrast to the Fat Quarter Notes in the Bridge
+<figure class="align-center">
+    <img src="/images/2020/06/23/fig-6-tremelos-in-contrast-to-the-fat-quarter-notes-in-the-bridge.png" alt="">
+    <figcaption><i>Figure 6: Tremelos in Contrast to the Fat Quarter Notes in the Bridge</i></figcaption>
+</figure> 
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/excerpt-6-tremelos-in-contrast-to-the-fat-quarter-notes-in-the-bridge.mp3">
+    </audio>
+    <figcaption><i>Excerpt 6: Tremelos in Contrast to the Fat Quarter Notes in the Bridge</i></figcaption>
+</figure>
+
 
 This one ain’t necessarily country vibin’, but it is something I did want to point out as a means to create texture.  The pattern of a long note into a spamming of shorts, back into a long and then back into spamming shorts creates a strong contrast of texture that drives the listeners forward.
 
 And here’s a tinier, but equally important one:
 
-Figure 7:  Articulation as a Form of Dancing in the 2nd Interlude
-Figure 7: Articulation as a Form of Dancing in the 2nd Interlude
+<figure class="align-center">
+    <img src="/images/2020/06/23/fig-7-articulation-as-a-form-of-dancing-in-the-2nd-interlude.png" alt="">
+    <figcaption><i>Figure 7: Articulation as a Form of Dancing in the 2nd Interlude</i></figcaption>
+</figure> 
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/excerpt-7-articulation-as-a-form-of-dancing-in-the-2nd-interlude.mp3">
+    </audio>
+    <figcaption><i>Excerpt 7: Articulation as a Form of Dancing in the 2nd Interlude</i></figcaption>
+</figure>
 
 **Music is generally an experience with listening, but there are times where using other sensory language can help people better understand how others experience music.**  When I chat with my friends on the color of a sound, I tend to use the word “spicy.”  When I chat with my friends on how I visualize playing the violin or how parts interact with each other, I tend to use the word “dance.”
 
@@ -153,25 +197,37 @@ Buuut I did learn some things along the way.  One of those things that I learned
 
 And that came to mind when I wrote this part:
 
-Figure 8:  Using the Piano Glissando in Tandem with a String 32nd Note Run to Add Some Glitter
-Figure 8: Using the Piano Glissando in Tandem with a String 32nd Note Run to Add Some Glitter
+<figure class="align-center">
+    <img src="/images/2020/06/23/fig-8-using-the-piano-glissando-in-tandem-with-a-string-32nd-note-run-to-add-some-glitter.png" alt="">
+    <figcaption><i>Figure 8: Using the Piano Glissando in Tandem with a String 32nd Note Run to Add Some Glitter</i></figcaption>
+</figure> 
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/excerpt-8-using-the-piano-glissando-in-tandem-with-a-string-32nd-note-run-to-add-some-glitter.mp3">
+    </audio>
+    <figcaption><i>Excerpt 8: Using the Piano Glissando in Tandem with a String 32nd Note Run to Add Some Glitter</i></figcaption>
+</figure>
+
 
 Did I really believe that we could play those 32nd notes crisp-ily?  Negatory, dudes.  Sorry, but I don’t have Matthew’s confidence level in my musicians.  I did not expect that we would play it cleanly.  But **music is a collaborative effort, so if we all suck at playing it, we can drown each other out and create just mainly texture,** and I’d like to think that goal was reached.  I also only made one request to Matthew this time around for the piano part, and that was for him to do the palm glissando during this section to maximum the impact of the glissando, so that helped hide our shortcomings :D.
 
 In an arrangement where I let a lot of thoughts through, I think this part was my **absolute** favorite.  It was also inspired by one of my absolute favorite piano quintet/vocal performances ever.  If you have the time, I encourage you to listen to it in its entirety, because I do play it back quite frequently.  I like it so much, I’m putting as an embed video for y’all to stare at.  But the specific part that I drew inspiration from for the gliss was <a href="https://youtu.be/6f41_ZYJDsU?t=258">here</a>.
 
-<figure class="align-center" style="margin:0px;padding:0px;overflow:hidden">>
+<figure class="align-center" style="margin:0px;padding:0px;overflow:hidden">
     <iframe
-      style="overflow:hidden;height:100%;width:100%"
-      height="100%"
-      width="100%"
-      src="https://www.youtube.com/embed/6f41_ZYJDsU"
-      title="Sincerely / TRUE 5th Anniversary Live Sound! vol.3 ～with Strings～"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen>
+        style="overflow:hidden;height:100%;width:100%"
+        height="100%"
+        width="500"
+        src="https://www.youtube.com/embed/6f41_ZYJDsU"
+        title="Sincerely / TRUE 5th Anniversary Live Sound! vol.3 ～with Strings～"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
     </iframe>
-    <figcaption>TRUE’s Live Performance of “Sincerely” with a Piano Quintet</figcaption>
+    <figcaption><i>TRUE’s Live Performance of “Sincerely” with a Piano Quintet</i></figcaption>
 </figure>
 
 Oh, and if y’all don’t like ending stories on a sour note, no worries.  Little Mermaid ended up being a very valuable lesson to me.  A month after my failure that is Little Mermaid, another friend of mine suggested that I apply for a job position that I didn’t have confidence in meeting the requirements.  But **my friend was confident in me, and I remembered the last time I didn’t trust in my friend’s confidence in me, so I thought that this time, I’d see it through the end instead of chickening out.**  The result of that is that **I will be moving up to the Bay Area again this upcoming August to start a new-ish career at a company that I highly regard!**  Woo!  Learn from y’all mistakes guys, continual growth will keep your adventures exciting.  Just thought I’d tangent over into my career life for a bit, since I promised y’all last time that I’d let y’all know (and also I guess end up promoting my other personal website (<a href="/blog/2020/06/15/one-step-four-years-in-the-making.html">Linky link to the post in question</a>).
@@ -188,8 +244,19 @@ And so, in my little music research, I guess I came up with the thought, “what
 
 So, I hadn’t tried it deliberately before, but there was evidence to suggest that it may work out.  I also thought this was a perfect opportunity to try, because **a lot of country vibin’ only has a singular voice for the string** (whether it be a single violin, or single cello, etc.).  Since I ain’t just going to tell the homies to pack their bags for one song, I figured it would be a good chance for me to try writing the string parts as if they were a singular unit.
 
-Figure 9:  String Parts Aligning Rhythmically to Deliver a Unified Voice in the Chorus
-Figure 9: String Parts Aligning Rhythmically to Deliver a Unified Voice in the Chorus
+<figure class="align-center">
+    <img src="/images/2020/06/23/fig-9-string-arts-aligning-rhythmically-to-deliver-a-unified-voice-in-the-chorus.png" alt="">
+    <figcaption><i>Figure 9: String Parts Aligning Rhythmically to Deliver a Unified Voice in the Chorus</i></figcaption>
+</figure> 
+<figure class="align-center">
+    <audio
+        controls
+        preload
+        class="align-center"
+        src="/assets/2020/06/23/excerpt-9-string-arts-aligning-rhythmically-to-deliver-a-unified-voice-in-the-chorus.mp3">
+    </audio>
+    <figcaption><i>Excerpt 9: String Parts Aligning Rhythmically to Deliver a Unified Voice in the Chorus</i></figcaption>
+</figure>
 
 So uh, yeah, if you listen through the arrangement, you’ll notice that the strings always play the same things. Granted, in harmony, but rhythmically, the same things.  There are a few places where I deviate from it, but in general, yeahhh.
 
