@@ -10,7 +10,7 @@ tags:
   - production
   - worship
   - fcbc walnut
-excerpt: "Production note for the arrangement of \"My Life is an Offering\" for FCBC Walnut's remote worship."
+excerpt: "Alas, it is finally time for me to bust out the country fiddlin’. In this production of note of “My Life is An Offering,” I go through five key vibes that I kept in mind as I wrote in a style that I normally don’t write in for FCBC Walnut’s remote worship recordings."
 ---
 
 <figure class="align-center">
