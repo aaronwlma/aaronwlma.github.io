@@ -24,7 +24,9 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | Desert Song | | String Quartet | FCBC Walnut | PDF / Demo |
 | Emmanuel (Hallowed Manger Ground) | | String Trio | FCBC Walnut | PDF / Demo |
 | Grace Alone | | Solo Violin | Berean | PDF / Demo |
+| God is For Us | Matthew Tong | Solo Violin | Berean | PDF / Demo |
 | His Mercy is More | | String Quintet | FCBC Walnut | PDF / Demo |
+| Holy Holy Holy | | Solo Violin | Berean | PDF / Demo |
 | How Great Thou Art | | String Quartet | FCBC Walnut | PDF / Demo |
 | I Stand Amazed (How Marvelous) | | Solo Violin | Berean | PDF / Demo |
 | I Will Glory in My Redeemer | | String Quartet | FCBC Walnut | PDF / Demo |
@@ -44,8 +46,10 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | My Worth is Not in What I Own | | String Trio | FCBC Walnut | PDF / Demo |
 | O Church, Arise (Arise, Shine) | | String Trio | FCBC Walnut | PDF / Demo |
 | O Praise the Name (Anastasis) | | String Quintet | FCBC Walnut | PDF / Demo |
+| Only a Holy God | | Solo Violin | Berean | PDF / Demo |
 | Oceans | | String Trio | FCBC Walnut | PDF / Demo |
 | Prepare Him Room | | String Trio | FCBC Walnut | PDF / Demo |
+| Raise Up the Crown | | Solo Violin | Berean | PDF / Demo |
 | Still My Soul, Be Still | | String Quartet | FCBC Walnut | PDF / Demo |
 | Surely Goodness, Surely Mercy | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | The Blessing | | String Quintet | FCBC Walnut | PDF / Demo |
