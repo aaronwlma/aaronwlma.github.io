@@ -10,7 +10,9 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 
 | Name | Co-Author(s) | Instrumentation | Church | Links |
 |------|-----------|-----------------|--------|-------|
+| All Creatures of Our God and King | | Solo Violin | Berean | PDF / Demo |
 | All Glory Be to Christ | | String Trio | FCBC Walnut | PDF / Demo |
+| And Can It Be | | Solo Violin | Berean | PDF / Demo |
 | Anchored | | String Quartet | FCBC Walnut | PDF / Demo |
 | Before the Throne of God Above | | String Trio | FCBC Walnut | PDF / Demo |
 | By Faith | | String Trio | FCBC Walnut | PDF / Demo |
@@ -25,6 +27,7 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | Emmanuel (Hallowed Manger Ground) | | String Trio | FCBC Walnut | PDF / Demo |
 | Grace Alone | | Solo Violin | Berean | PDF / Demo |
 | God is For Us | Matthew Tong | Solo Violin | Berean | PDF / Demo |
+| He Will Hold Me Fast | | Solo Violin | Berean | PDF / Demo |
 | His Mercy is More | | String Quintet | FCBC Walnut | PDF / Demo |
 | Holy Holy Holy | | Solo Violin | Berean | PDF / Demo |
 | How Great Thou Art | | String Quartet | FCBC Walnut | PDF / Demo |
@@ -34,6 +37,7 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | In Christ Alone | | String Quartet | FCBC Walnut | PDF / Demo |
 | In the Cross Alone I Glory | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | Jesus Paid It All | | Solo Violin | Berean | PDF / Demo |
+| Jesus Thank You | | Solo Violin | Berean | PDF / Demo |
 | Jesus, Strong and Kind | | String Quartet | FCBC Walnut | PDF / Demo |
 | Joy to the World (Joyful, Joyful) | | String Trio | FCBC Walnut | PDF / Demo |
 | King of Love | | Solo Violin | Berean | PDF / Demo |
@@ -46,21 +50,27 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | My Worth is Not in What I Own | | String Trio | FCBC Walnut | PDF / Demo |
 | O Church, Arise (Arise, Shine) | | String Trio | FCBC Walnut | PDF / Demo |
 | O Praise the Name (Anastasis) | | String Quintet | FCBC Walnut | PDF / Demo |
+| Our God Saves | | Solo Violin | Berean | PDF / Demo |
 | Only a Holy God | | Solo Violin | Berean | PDF / Demo |
 | Oceans | | String Trio | FCBC Walnut | PDF / Demo |
 | Prepare Him Room | | String Trio | FCBC Walnut | PDF / Demo |
 | Raise Up the Crown | | Solo Violin | Berean | PDF / Demo |
 | Still My Soul, Be Still | | String Quartet | FCBC Walnut | PDF / Demo |
 | Surely Goodness, Surely Mercy | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
+| Take My Life | | Solo Violin | Berean | PDF / Demo |
 | The Blessing | | String Quintet | FCBC Walnut | PDF / Demo |
 | The Lord is My Salvation | | String Quartet | FCBC Walnut | PDF / Demo |
 | The Love of God | | String Trio | FCBC Walnut | PDF / Demo |
+| The Solid Rock | | Solo Violin | Berean | PDF / Demo |
 | There is a Fountain | | String Trio | FCBC Walnut | PDF / Demo |
 | This is My Father’s World | | String Quartet | FCBC Walnut | PDF / Demo |
 | Trust in Him at All Times | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
+| When I Think About the Lord | | Solo Violin | Berean | PDF / Demo |
 | Worthy | | Solo Violin | Berean | PDF / Demo |
 | Yet Not I But Through Christ in Me | | String Quartet | FCBC Walnut | PDF / Demo |
+| Your Grace Finds Me | | Solo Violin | Berean | PDF / Demo |
 | Your Grace is Enough | | Solo Violin | Berean | PDF / Demo |
+| Your Will Be Done | | Solo Violin | Berean | PDF / Demo |
 
 ### Anime:
 
