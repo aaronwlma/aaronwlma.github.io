@@ -10,6 +10,7 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 
 | Name | Co-Author(s) | Instrumentation | Church | Links |
 |------|-----------|-----------------|--------|-------|
+| Alas and Did My Savior Bleed | | Solo Violin | FCBC Walnut | PDF / Demo |
 | All Creatures of Our God and King | | Solo Violin | Berean | PDF / Demo |
 | All Glory Be to Christ | | String Trio | FCBC Walnut | PDF / Demo |
 | And Can It Be | | Solo Violin | Berean | PDF / Demo |
@@ -36,6 +37,7 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | I Will Wait For You | | String Trio | FCBC Walnut | PDF / Demo |
 | In Christ Alone | | String Quartet | FCBC Walnut | PDF / Demo |
 | In the Cross Alone I Glory | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
+| It Was Finished Upon That Cross | | Solo Violin | FCBC Walnut | PDF / Demo |
 | Jesus Paid It All | | Solo Violin | Berean | PDF / Demo |
 | Jesus Thank You | | Solo Violin | Berean | PDF / Demo |
 | Jesus, Strong and Kind | | String Quartet | FCBC Walnut | PDF / Demo |
@@ -43,12 +45,14 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | King of Love | | Solo Violin | Berean | PDF / Demo |
 | Lord, From Sorrows Deep I Call | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | Lovingkindness | | String Trio | FCBC Walnut | PDF / Demo |
+| May the Peoples Praise You | | Solo Violin | FCBC Walnut | PDF / Demo |
 | My Faith Has Found a Resting Place | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | My Jesus, I Love Thee | | String Trio | FCBC Walnut | PDF / Demo |
 | My Life is an Offering | | String Trio | FCBC Walnut | PDF / Demo |
 | My Soul Finds Rest in God Alone | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | My Worth is Not in What I Own | | String Trio | FCBC Walnut | PDF / Demo |
 | O Church, Arise (Arise, Shine) | | String Trio | FCBC Walnut | PDF / Demo |
+| O Great God | | Solo Violin | FCBC Walnut | PDF / Demo |
 | O Praise the Name (Anastasis) | | String Quintet | FCBC Walnut | PDF / Demo |
 | Our God Saves | | Solo Violin | Berean | PDF / Demo |
 | Only a Holy God | | Solo Violin | Berean | PDF / Demo |
