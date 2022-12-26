@@ -10,10 +10,12 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 
 | Name | Co-Author(s) | Instrumentation | Church | Links |
 |------|-----------|-----------------|--------|-------|
+| A Christmas Medley | | String Duo | Calvary Chapel Golden Springs | PDF / Demo |
 | All Creatures of Our God and King | | Solo Violin | Berean | PDF / Demo |
 | All Glory Be to Christ | | String Trio | FCBC Walnut | PDF / Demo |
 | And Can It Be | | Solo Violin | Berean | PDF / Demo |
 | Anchored | | String Quartet | FCBC Walnut | PDF / Demo |
+| Away in a Manger (Forever Amen) | | String Trio | FCBC Walnut | PDF / Demo |
 | Before the Throne of God Above | | String Trio | FCBC Walnut | PDF / Demo |
 | By Faith | | String Trio | FCBC Walnut | PDF / Demo |
 | Christ is Mine Forevermore | | Solo Violin | Berean | PDF / Demo |
@@ -25,8 +27,10 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | Cornerstone | | Solo Violin | FCBC Walnut | PDF / Demo |
 | Desert Song | | String Quartet | FCBC Walnut | PDF / Demo |
 | Emmanuel (Hallowed Manger Ground) | | String Trio | FCBC Walnut | PDF / Demo |
+| Emmanuel God With Us | | String Duo | Calvary Chapel Golden Springs | PDF / Demo |
 | Grace Alone | | Solo Violin | Berean | PDF / Demo |
 | God is For Us | Matthew Tong | Solo Violin | Berean | PDF / Demo |
+| God So Loved | | String Duo | Calvary Chapel Golden Springs | PDF / Demo |
 | He Will Hold Me Fast | | Solo Violin | Berean | PDF / Demo |
 | His Mercy is More | | String Quintet | FCBC Walnut | PDF / Demo |
 | Holy Holy Holy | | Solo Violin | Berean | PDF / Demo |
@@ -49,12 +53,15 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | My Soul Finds Rest in God Alone | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | My Worth is Not in What I Own | | String Trio | FCBC Walnut | PDF / Demo |
 | O Church, Arise (Arise, Shine) | | String Trio | FCBC Walnut | PDF / Demo |
+| O Come All You Unfaithful | | String Trio | FCBC Walnut | PDF / Demo |
+| O Come to the Altar | | String Duo | Calvary Chapel Golden Springs | PDF / Demo |
 | O Praise the Name (Anastasis) | | String Quintet | FCBC Walnut | PDF / Demo |
 | Our God Saves | | Solo Violin | Berean | PDF / Demo |
 | Only a Holy God | | Solo Violin | Berean | PDF / Demo |
 | Oceans | | String Trio | FCBC Walnut | PDF / Demo |
 | Prepare Him Room | | String Trio | FCBC Walnut | PDF / Demo |
 | Raise Up the Crown | | Solo Violin | Berean | PDF / Demo |
+| Silent Night / Jesus We Love You | | String Duo | Calvary Chapel Golden Springs | PDF / Demo |
 | Still My Soul, Be Still | | String Quartet | FCBC Walnut | PDF / Demo |
 | Surely Goodness, Surely Mercy | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | Take My Life | | Solo Violin | Berean | PDF / Demo |
