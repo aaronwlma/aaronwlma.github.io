@@ -117,7 +117,7 @@ Welp, as mentioned earlier, I have a fair amount of free time incoming, so hopef
         style="overflow:hidden;height:100%;width:100%"
         height="100%"
         width="500"
-        src="https://youtu.be/ENadjSw30ZU"
+        src="https://www.youtube.com/watch?v=ENadjSw30ZU"
         title="Boku ni Hikari wo Kuretanda"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
