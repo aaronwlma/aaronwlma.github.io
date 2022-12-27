@@ -30,7 +30,7 @@ So here’s an example of that weaving dance.  Both the piano and strings consta
 
 <figure class="align-center">
     <img src="/images/2020/06/09/fig-2-viola-and-cello-1-bouncing-rhythmically-in-and-out-of-the-melodic-center.png" alt="">
-    <figcaption><i>Figure 2: Scoopin' in the First Interlude</i></figcaption>
+    <figcaption><i>Figure 2: Viola and Cello 1 Bouncing Rhythmically In and Out of the Melodic Center</i></figcaption>
 </figure> 
 
 Annnd the speed dating dancing continues in the parts inability to stay committed to a consistent interval in their harmonizing:
