@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Running a Thousand Miles in 2022"
+title: "Recap on Running a Thousand Miles in 2022"
 date: 2022-12-31 11:59:59 -0800
 image: 
-  path: /images/2022/12/31/running-a-thousand-miles-in-2022-banner.png
-  thumbnail: /images/2022/12/31/running-a-thousand-miles-in-2022-banner.png
+  path: /images/2022/12/31/recap-on-running-a-thousand-miles-in-2022-banner.png
+  thumbnail: /images/2022/12/31/recap-on-running-a-thousand-miles-in-2022-banner.png
 categories: blog
 tags:
   - life
