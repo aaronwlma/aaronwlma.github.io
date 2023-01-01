@@ -57,7 +57,7 @@ My first (of hopefully many) Vacation Race's event.  I really love these events 
 
 <figure class="align-center">
   <img src="/images/2022/12/31/grand-teton-5k-suffering.jpg" width="50%" height="50%" alt="">
-  <figcaption><i>The most memorable photo from the trip, ain't it attractive?</i></figcaption>
+  <figcaption><i>The most memorable photo from the trip, ain't it attractive?  Thanks [@justinfocus_](https://www.instagram.com/justinfocus_/?hl=en) for the flattering photo lol :D</i></figcaption>
 </figure> 
 
 ### [San Francisco Marathon 10K](https://www.strava.com/activities/7521752258/overview)
