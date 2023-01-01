@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Production Note: Boku ni Hikari wo Kuretanda"
-date: 2020-06-09 11:59:59 +0800
+date: 2020-06-09 11:59:59 -0800
 image: 
   path: /images/2020/06/09/boku-ni-hikari-wo-kuretanda-banner.png
   thumbnail: /images/2020/06/09/boku-ni-hikari-wo-kuretanda-banner.png

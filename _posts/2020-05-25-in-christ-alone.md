@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Production Note: In Christ Alone"
-date: 2020-05-25 11:59:59 +0800
+date: 2020-05-25 11:59:59 -0800
 image: 
   path: /images/2020/05/25/in-christ-alone-banner.png
   thumbnail: /images/2020/05/25/in-christ-alone-banner.png
