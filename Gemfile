@@ -34,3 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Add theme "so-simple" (https://github.com/mmistakes/so-simple-theme)
 gem "jekyll-theme-so-simple"
+gem "webrick", "~> 1.7"
