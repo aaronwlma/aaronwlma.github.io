@@ -21,7 +21,7 @@ In signal processing, we often use something called SNR as one of a few metrics 
 
 <figure class="align-center">
     <img src="/images/2020/02/14/figure-1-snr-for-the-math-inclined-courtesy-of-wiki.png" alt="">
-    <figcaption><i>Figure 1: SNR for the Math Inclined, Courtesy of [Wiki](https://en.wikipedia.org/wiki/Signal-to-noise_ratio)</i></figcaption>
+    <figcaption><i>Figure 1: SNR for the Math Inclined, Courtesy of Wiki</i></figcaption>
 </figure>
 
 Now, if you know basic fractions, you know that given this equation, there are two general ways to improve SNR.  If you increase your signal (P_signal), your SNR will go up.  Conversely, you can also decrease your noise (P_noise), and your SNR will also go up.
