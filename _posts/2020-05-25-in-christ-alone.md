@@ -32,7 +32,9 @@ excerpt: "Arrangement notes recently have been more about breadth instead of dep
     <figcaption><i>In Christ Alone (Arrangement MIDI Demo)</i></figcaption>
 </figure>
 
-Sheet music and MIDI generated demo for this arrangement can be found [here](TODO).
+Sheet music and MIDI generated demo for this arrangement can be found <a href="/sheets">here</a>.
+
+<hr>
 
 Hmmmmm……
 
