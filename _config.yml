@@ -61,6 +61,6 @@ footer_links:
   - title: Twitch
     url: https://twitch.tv/aimfy
     icon: fab fa-twitch
-  - title: GitHub
-    url: https://github.com/aaronwlma
-    icon: fab fa-github-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/aaronwlma/
+    icon: fab fa-linkedin
