@@ -54,7 +54,7 @@ I believe that is the same with the endeavors that I have taken in my own life. 
 
 And so, for the three-months, I hope to speak softer, and let the music I work with speak.  Instead of participating in the loudness war by meeting loudness with loudness, I aim to acknowledge the limitations of the systems and view that less as a shortcoming, but more of a design challenge.  I’ll still keep up my production notes and whatever writing I feel compelled to do, but I’ll aim to speak in action instead of in words, and hopefully by letting my ears and voice rest, I can become more sensitive to the nuances of the community around me to respond accordingly.
 
-Reason and Hope #3: Tame the Resonant Frequencies
+# Reason and Hope #3: Tame the Resonant Frequencies
 
 Ah, resonant frequencies…they are always a pain to deal with.  It's what brings down buildings/bridges, makes rockets burn up, and what shakes the stage at my local church (lol).  There are several ways to deal with resonant frequencies.  As with all things related to recording techniques, it is always the best to treat things at the source.  But if you can't avoid that, then the next option is to just slap an equalizer on it.  Equalize the SPL (sound pressure level, for those who don’t like acronyms) by identifying the resonant frequency, observing the SPL difference, and using the equalizer to lower that frequency range’s SPL an amount equal to the difference.  From there, you have a balanced signal to work with.
 
