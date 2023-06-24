@@ -3,8 +3,8 @@ layout: post
 title: "Living a Sound Life"
 date: 2020-02-14 11:59:59 -0800
 image: 
-  path: /images/2020/02/14/living-a-sound-life.jpg
-  thumbnail: /images/2020/02/14/living-a-sound-life.jpg
+  path: /images/2020/02/14/living-a-sound-life-banner.jpg
+  thumbnail: /images/2020/02/14/living-a-sound-life-banner.jpg
 categories: blog
 tags:
   - life
