@@ -45,7 +45,7 @@ For those who value your time, feel free to uh, hit the close button on this win
 So, without further ado!  Here’s the passage in question:
 
 <figure class="align-center">
-    <img src="/images/2020/06/09/fig-1-piano-bouncing-in-and-out-of-the-melodic-center.png" alt="">
+    <img src="/images/2020/05/25/excerpt-01-verse-4-build-up-into-the-climax-of-the-chorus.png" alt="">
     <figcaption><i>Excerpt 1: Verse 4 Build Up into the Climax of the Chorus</i></figcaption>
 </figure> 
 
@@ -66,14 +66,14 @@ And here’s the audio for the visually impaired cause the screenshot is probabl
 Let’s start from the very beginning, at m.66:
 
 <figure class="align-center">
-    <img src="/images/2020/06/09/fig-1-piano-bouncing-in-and-out-of-the-melodic-center.png" alt="">
+    <img src="/images/2020/05/25/excerpt-02-alternating-notes-in-the-first-measure-of-verse-4.png" alt="">
     <figcaption><i>Excerpt 2: Alternating Notes in the First Measure of Verse 4</i></figcaption>
 </figure> 
 
 Let’s start with the choice to use the alternating notes in violin 1 part.  **It’s purpose really was to piggyback off the interlude theme that exists in the** [original Shane and Shane version](https://www.youtube.com/watch?v=h2ld1wI2hT8), that Brian, our pianist this time around, also played in this recording of “In Christ Alone.”  The theme is echo-ed in the cello line prior:
 
 <figure class="align-center">
-    <img src="/images/2020/06/09/fig-1-piano-bouncing-in-and-out-of-the-melodic-center.png" alt="">
+    <img src="/images/2020/05/25/excerpt-03-alternating-pattern-in-the-original-brians-pianoing-and-in-the-cello-echo.png" alt="">
     <figcaption><i>Excerpt 3: Alternating Pattern in the Original, Brian’s Piano-ing, and in the Cello Echo</i></figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ To me, **verse 4 was a slight challenge, as usually by this point of the song, w
 Let’s move on a little bit to expand it up to four bars:
 
 <figure class="align-center">
-    <img src="/images/2020/06/09/fig-1-piano-bouncing-in-and-out-of-the-melodic-center.png" alt="">
+    <img src="/images/2020/05/25/excerpt-04-countermelody-to-soften-the-forwardness-in-the-violin-2-part.png" alt="">
     <figcaption><i>Excerpt 4: Countermelody to Soften the Forwardness in the Violin 2 Part</i></figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ Now, that means we got three ideas going on all at the same time, and don’t fo
 Alrighty, moving on.  We are now halfway through the build into the chorus, and this is now a pivot moment of the build.  With the pulsing and alternating idea, I already established that the first build is 4 bars long.  The expectation, then, is that the next idea is two bars long, and then one bar long.  Kinda like those EDM drops, where the bass drum is hit on 1-3, and then 1-2-3-4, and then 1-n-2-n-3-n-4-n, etc.  To violate that pattern would be betrayal to the listener, and if you do that, you better have a darn good reason to do it, otherwise the listener will feel filthy and cheated.
 
 <figure class="align-center">
-    <img src="/images/2020/06/09/fig-1-piano-bouncing-in-and-out-of-the-melodic-center.png" alt="">
+    <img src="/images/2020/05/25/excerpt-05-the-introduced-structured-chaotic-build.png" alt="">
     <figcaption><i>Excerpt 5: The Introduced Structured Chaotic Build</i></figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ Originally, I had the triplet-sixteenth notes last four bars instead of two (sor
 ### The Rebel
 
 <figure class="align-center">
-    <img src="/images/2020/06/09/fig-1-piano-bouncing-in-and-out-of-the-melodic-center.png" alt="">
+    <img src="/images/2020/05/25/excerpt-06-the-four-chords-leading-to-the-downbeat-of-the-chorus.png" alt="">
     <figcaption><i>Excerpt 6: The Four Chords Leading to the Downbeat of the Chorus</i></figcaption>
 </figure>
 
@@ -119,7 +119,7 @@ So now we’ve reached the crucial two bars into the climax.  This is where thin
 You will notice that in these two bars, I played by the rules and hit notes that were in the traditional set of notes in the chord.  The G chord has G-B-D, the A chord lands on A-C-E, and the D chord starts with D-F#-A.  **But the very last chord, the D/F#, consists of D-F#-A…C#.**
 
 <figure class="align-center">
-    <img src="/images/2020/06/09/fig-1-piano-bouncing-in-and-out-of-the-melodic-center.png" alt="">
+    <img src="/images/2020/05/25/excerpt-07-c-sharp-in-the-violin-1-part-to-force-a-dmaj7.png" alt="">
     <figcaption><i>Excerpt 7: C# in the Violin 1 Part to Force a Dmaj7</i></figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ Here we are now, finally, at the end of the road.  Thanks for staying with me up
 For the landing of the chorus, let’s take a look again at the notes I’ve selected for this chord.
 
 <figure class="align-center">
-    <img src="/images/2020/06/09/fig-1-piano-bouncing-in-and-out-of-the-melodic-center.png" alt="">
+    <img src="/images/2020/05/25/excerpt-08-landing-chord-for-the-chorus.png" alt="">
     <figcaption><i>Excerpt 8: Landing Chord for the Chorus</i></figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ An A.  Great, another transformation.  You’d expect that with all the noise th
 **The add9 does have a release in tension, but not quite all of it.**  This was actually a little bit of an imitation and response to Matthew’s idea in his arrangement of “Amazing Grace (My Chains are Gone).”
 
 <figure class="align-center">
-    <img src="/images/2020/06/09/fig-1-piano-bouncing-in-and-out-of-the-melodic-center.png" alt="">
+    <img src="/images/2020/05/25/excerpt-09-matthews-full-tension-release-in-the-climax-chord-of-amazing-grace.png" alt="">
     <figcaption><i>Excerpt 9: Matthew’s Full Tension Release in the Climax Chord of Amazing Grace, Courtesy of Matthew Tong</i></figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ Matthew releases all his tension by adhering to the G chord.  In context of his 
 Now, let’s go back to me (because it’s all about me, yo).  **The landing of this climax is on “no power of hell.”**  I’ll give you some words to mindlessly read before it sinks in.  Hm, preheat the oven to 400 degrees Fahrenheit, mix the dry ingredients into the wet for 15 minutes…did it hit you?  Of course it did, my readers are highly educated and critical (and good looking).  There’s no way (in hell) that they would accept that “power of hell” should be the strongest emphasis in this piece.
 
 <figure class="align-center">
-    <img src="/images/2020/06/09/fig-1-piano-bouncing-in-and-out-of-the-melodic-center.png" alt="">
+    <img src="/images/2020/05/25/excerpt-10-asserting-the-climax-to-come-two-bars-after-the-beginning-of-the-chorus.png" alt="">
     <figcaption><i>Excerpt 10: Asserting the Climax to Come Two Bars After the Beginning of the Chorus</i></figcaption>
 </figure>
 
