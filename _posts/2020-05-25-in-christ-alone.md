@@ -17,7 +17,7 @@ excerpt: "Arrangement notes recently have been more about breadth instead of dep
         controls
         preload
         class="align-center"
-        src="/assets/2020/06/23/my-life-is-an-offering-string-focus.mp3">
+        src="/assets/2020/05/25/in-christ-alone-ray-tays-team.mp3">
     </audio>
     <figcaption><i>In Christ Alone - Ray Tay's Team (2020.05.24)</i></figcaption>
 </figure>
@@ -27,7 +27,7 @@ excerpt: "Arrangement notes recently have been more about breadth instead of dep
         controls
         preload
         class="align-center"
-        src="/assets/2020/06/23/my-life-is-an-offering-string-focus.mp3">
+        src="/assets/2020/05/25/in-christ-alone-arrangement-midi-demo.mp3">
     </audio>
     <figcaption><i>In Christ Alone (Arrangement MIDI Demo)</i></figcaption>
 </figure>
@@ -54,7 +54,7 @@ And here’s the audio for the visually impaired cause the screenshot is probabl
         controls
         preload
         class="align-center"
-        src="/assets/2020/06/23/my-life-is-an-offering-string-focus.mp3">
+        src="/assets/2020/05/25/excerpt-for-deconstruction-in-in-christ-alone.mp3">
     </audio>
     <figcaption><i>Excerpt for Deconstruction in In Christ Alone</i></figcaption>
 </figure>
@@ -156,7 +156,7 @@ An A.  Great, another transformation.  You’d expect that with all the noise th
         controls
         preload
         class="align-center"
-        src="/assets/2020/06/23/my-life-is-an-offering-string-focus.mp3">
+        src="/assets/2020/05/25/excerpt-from-matthews-building-in-amazing-grace.mp3">
     </audio>
     <figcaption><i>Excerpt from Matthew's Building in Amazing Grace</i></figcaption>
 </figure>
