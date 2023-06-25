@@ -9,6 +9,7 @@ categories: blog
 tags:
   - production
   - anime
+  - tabimix
 excerpt: "It’s been two months, but I’m back with a new cover! I really enjoy transcription projects because it allows me take a deep dive into how great composers do things. There is a lot to learn and discover in the process, and in my transcription (and recording) of Boku ni Hikari wo Kuretanda, I took special notice to how different voices interacted to paint a a beautiful picture that even encouraged me to re-evaluate my thoughts on musical integrity."
 ---
 
