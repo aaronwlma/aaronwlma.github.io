@@ -216,8 +216,6 @@ Did I really believe that we could play those 32nd notes crisp-ily?  Negatory, d
 
 In an arrangement where I let a lot of thoughts through, I think this part was my **absolute** favorite.  It was also inspired by one of my absolute favorite piano quintet/vocal performances ever.  If you have the time, I encourage you to listen to it in its entirety, because I do play it back quite frequently.  I like it so much, I’m putting as an embed video for y’all to stare at.  But the specific part that I drew inspiration from for the gliss was <a href="https://youtu.be/6f41_ZYJDsU?t=258">here</a>.
 
-
-
 <figure class="align-center" style="margin:0px;padding:0px;overflow:hidden">
     <div style="text-align: center;">
         <iframe
