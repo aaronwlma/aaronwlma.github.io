@@ -218,15 +218,11 @@ In an arrangement where I let a lot of thoughts through, I think this part was m
 
 <figure class="align-center" style="margin:0px;padding:0px;overflow:hidden">
     <iframe
-        style="overflow:hidden;height:100%;width:100%"
-        height="100%"
-        width="500"
+        width="560"
+        height="315"
         src="https://www.youtube.com/embed/6f41_ZYJDsU"
-        title="Sincerely / TRUE 5th Anniversary Live Sound! vol.3 ～with Strings～"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-    </iframe>
+        frameborder="0">
+    </iframe> 
     <figcaption><i>TRUE’s Live Performance of “Sincerely” with a Piano Quintet</i></figcaption>
 </figure>
 
