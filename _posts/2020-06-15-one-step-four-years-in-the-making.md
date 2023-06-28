@@ -7,7 +7,7 @@ image:
   thumbnail: /images/2020/06/15/facebook-office-banner.jpg
 categories: blog
 tags:
-  - career
+  - life
 excerpt: "My first job out of college was as a contractor at Facebook.  Four years later, I've come full circle and am returning to Facebook as a production engineer.  This post is just a blurb about how I made the transition and the fun lessons I learned along the way."
 ---
 
