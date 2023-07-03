@@ -10,6 +10,7 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 
 | Name | Co-Author(s) | Instrumentation | Church | Links |
 |------|-----------|-----------------|--------|-------|
+| 10000 Reasons | | Solo Violin | Berean Mission Church | PDF / Demo |
 | A Christmas Medley | | String Duo | Calvary Chapel Golden Springs | PDF / Demo |
 | Alas and Did My Savior Bleed | | Solo Violin | FCBC Walnut | PDF / Demo |
 | All Creatures of Our God and King | | Solo Violin | Berean Mission Church | PDF / Demo |
@@ -17,35 +18,50 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | And Can It Be | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Anchored | | String Quartet | FCBC Walnut | PDF / Demo |
 | Away in a Manger (Forever Amen) | | String Trio | FCBC Walnut | PDF / Demo |
+| Awesome is the Lord Most High | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Before the Throne of God Above | | String Trio | FCBC Walnut | PDF / Demo |
+| Blessed Be Your Name | | Solo Violin | Berean Mission Church | PDF / Demo |
+| Build My Life | | Solo Violin | Berean Mission Church | PDF / Demo |
 | By Faith | | String Trio | FCBC Walnut | PDF / Demo |
 | Christ is Mine Forevermore | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Christ Our Hope in Life and Death | | String Quartet | FCBC Walnut | PDF / Demo |
 | Christ the Sure and Steady Anchor | | String Trio | FCBC Walnut | PDF / Demo |
 | Christmas Offering | | String Trio | FCBC Walnut | PDF / Demo |
+| Come Behold the Wondrous Mystery | Matthew Tong | Solo Violin | Berean Mission Church | PDF / Demo |
 | Come People of the Risen King | | String Quintet | FCBC Walnut | PDF / Demo |
 | Come Thou Fount of Every Blessing | | Solo Violin | FCBC Walnut | PDF / Demo |
 | Cornerstone | | Solo Violin | FCBC Walnut | PDF / Demo |
+| Crown Him With Many Crowns | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Desert Song | | String Quartet | FCBC Walnut | PDF / Demo |
 | Emmanuel (Hallowed Manger Ground) | | String Trio | FCBC Walnut | PDF / Demo |
 | Emmanuel God With Us | | String Duo | Calvary Chapel Golden Springs | PDF / Demo |
+| For the Cross | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Grace Alone | | Solo Violin | Berean Mission Church | PDF / Demo |
 | God is For Us | Matthew Tong | Solo Violin | Berean Mission Church | PDF / Demo |
+| God of Wonders | | Solo Violin | Berean Mission Church | PDF / Demo |
 | God So Loved | | String Duo | Calvary Chapel Golden Springs | PDF / Demo |
+| Hark the Herald Angels Sing | | Solo Violin | Berean Mission Church | PDF / Demo |
+| He is Worthy | | Solo Violin | Berean Mission Church | PDF / Demo |
 | He Will Hold Me Fast | | Solo Violin | Berean Mission Church | PDF / Demo |
 | His Mercy is More | | String Quintet | FCBC Walnut | PDF / Demo |
 | Holy Holy Holy | | Solo Violin | Berean Mission Church | PDF / Demo |
 | How Great Thou Art | | String Quartet | FCBC Walnut | PDF / Demo |
+| How Great You Are | | Solo Violin | Berean Mission Church | PDF / Demo |
 | I Stand Amazed (How Marvelous) | | Solo Violin | Berean Mission Church | PDF / Demo |
+| I Surrender All | | Solo Violin | Berean Mission Church | PDF / Demo |
 | I Will Glory in My Redeemer | | String Quartet | FCBC Walnut | PDF / Demo |
+| I Will Rise | | Solo Violin | Berean Mission Church | PDF / Demo |
 | I Will Wait For You | | String Trio | FCBC Walnut | PDF / Demo |
 | In Christ Alone | | String Quartet | FCBC Walnut | PDF / Demo |
 | In the Cross Alone I Glory | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | It Was Finished Upon That Cross | | Solo Violin | FCBC Walnut | PDF / Demo |
+| Jesus I My Cross Have Taken | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Jesus Paid It All | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Jesus Thank You | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Jesus, Strong and Kind | | String Quartet | FCBC Walnut | PDF / Demo |
+| Jesus Your Mercy | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Joy to the World (Joyful, Joyful) | | String Trio | FCBC Walnut | PDF / Demo |
+| King of Kings | Kristen Lee | Solo Violin | Berean Mission Church | PDF / Demo |
 | King of Love | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Lord, From Sorrows Deep I Call | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | Lovingkindness | | String Trio | FCBC Walnut | PDF / Demo |
@@ -55,16 +71,20 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | My Life is an Offering | | String Trio | FCBC Walnut | PDF / Demo |
 | My Soul Finds Rest in God Alone | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
 | My Worth is Not in What I Own | | String Trio | FCBC Walnut | PDF / Demo |
+| No Other Saviour | | Solo Violin | Berean Mission Church | PDF / Demo |
+| Nothing But the Blood | | Solo Violin | Berean Mission Church | PDF / Demo |
 | O Church, Arise (Arise, Shine) | | String Trio | FCBC Walnut | PDF / Demo |
 | O Come All You Unfaithful | | String Trio | FCBC Walnut | PDF / Demo |
 | O Come to the Altar | | String Duo | Calvary Chapel Golden Springs | PDF / Demo |
 | O Great God | | Solo Violin | FCBC Walnut | PDF / Demo |
+| O Lord My Rock and My Redeemer | | Solo Violin | Berean Mission Church | PDF / Demo |
 | O Praise the Name (Anastasis) | | String Quintet | FCBC Walnut | PDF / Demo |
 | Our God Saves | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Only a Holy God | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Oceans | | String Trio | FCBC Walnut | PDF / Demo |
 | Prepare Him Room | | String Trio | FCBC Walnut | PDF / Demo |
 | Raise Up the Crown | | Solo Violin | Berean Mission Church | PDF / Demo |
+| Salvation is Here | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Silent Night / Jesus We Love You | | String Duo | Calvary Chapel Golden Springs | PDF / Demo |
 | Still My Soul, Be Still | | String Quartet | FCBC Walnut | PDF / Demo |
 | Surely Goodness, Surely Mercy | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
@@ -76,6 +96,7 @@ I am a fan of providing sheets whenever possible.  Here are a few of those sheet
 | There is a Fountain | | String Trio | FCBC Walnut | PDF / Demo |
 | This is My Father’s World | | String Quartet | FCBC Walnut | PDF / Demo |
 | Trust in Him at All Times | Matthew Tong | String Quartet | FCBC Walnut | PDF / Demo |
+| What a Beautiful Name | | Solo Violin | Berean Mission Church | PDF / Demo |
 | When I Think About the Lord | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Worthy | | Solo Violin | Berean Mission Church | PDF / Demo |
 | Yet Not I But Through Christ in Me | | String Quartet | FCBC Walnut | PDF / Demo |
