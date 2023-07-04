@@ -9,6 +9,7 @@ categories: blog
 tags:
   - production
   - kamaso quartet
+  - anime
 excerpt: "Be mindful of your shortcomings.  I spent a good amount of time on the production of RADWIMPS’ “Zen Zen Zense,” and I wasn’t quite satisfied with the result in the end.  To be transparent with my ups and downs, I recall three statements in this production note that I use to keep myself going in my musical journey."
 ---
 
