@@ -18,7 +18,7 @@ excerpt: "Sometimes, doing your very best speaks volumes more than being the bes
         <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/watch?v=_jPWxkIQYW0"
+            src="https://www.youtube.com/embed/_jPWxkIQYW0"
             frameborder="0">
         </iframe>
     </div>

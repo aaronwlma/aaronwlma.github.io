@@ -20,7 +20,7 @@ As this recording is a primarily a transcription of JHMJam’s arrangement, plea
         <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/watch?v=V87VHxL384Y"
+            src="https://www.youtube.com/embed/V87VHxL384Y"
             frameborder="0">
         </iframe>
     </div>

@@ -13,7 +13,17 @@ tags:
 excerpt: "Build, Run, Counter.  For the last worship set of December, I used my standard steroid set to elevate CityAlight’s most recent song, “Jesus, Strong and Kind.”  In this production note, I highlight how I interpreted the intent of the piece, and how I used that interpretation to elevate the song for the purpose of facilitating a better space of wholehearted worship."
 ---
 
-Worship tape [here](https://youtu.be/5kkHap1vhwI) (Video reference @ FCBC Walnut on December 29th, 2019).
+<figure class="align-center" style="margin:0px;padding:0px;overflow:hidden">
+    <div style="text-align: center;">
+        <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/5kkHap1vhwI"
+            frameborder="0">
+        </iframe>
+    </div>
+    <figcaption><i>Video reference @ FCBC Walnut on December 29th, 2019</i></figcaption>
+</figure>
 
 Sheet music and MIDI generated demo for this arrangement can be found <a href="/sheets">here</a>.
 
