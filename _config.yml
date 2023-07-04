@@ -34,8 +34,9 @@ google_fonts:
     weights: "400,400i,700,700i"
 # twitter_username: jekyllrb
 # github_username:  aaronwlma
-paginate: 10  # amount of posts to show per page
-paginate_path: /page-:num/
+paginate: 12  # amount of posts to show per page
+paginate_path: /page:num/
+search_full_content: true
 
 # Build settings
 plugins:
