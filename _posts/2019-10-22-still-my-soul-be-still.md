@@ -4,7 +4,7 @@ title: "Production Note: Still My Soul, Be Still"
 date: 2019-10-22 11:59:59 -0800
 image: 
   path: /images/2019/10/22/still-my-soul-be-still-banner.png
-  thumbnail: /2019/10/22/still-my-soul-be-still-banner.png
+  thumbnail: /images/2019/10/22/still-my-soul-be-still-banner.png
 categories: blog
 tags:
   - production
