@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Face to Face: One Step Four Years in the Making"
+title: "One Step Four Years in the Making"
 date: 2020-06-15 11:59:59 -0800
 image: 
   path: /images/2020/06/15/facebook-office-banner.jpg

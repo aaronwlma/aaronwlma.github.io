@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Production Note: Before the Throne of God Above"
+title: "Before the Throne of God Above"
 date: 2020-04-19 11:59:59 -0800
 image: 
   path: /images/2020/04/19/before-the-throne-of-god-above-banner.png

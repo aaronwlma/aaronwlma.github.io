@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Production Note: Zen Zen Zense"
+title: "Zen Zen Zense"
 date: 2019-12-11 11:59:59 -0800
 image: 
   path: /images/2019/12/11/zen-zen-zense-banner.png

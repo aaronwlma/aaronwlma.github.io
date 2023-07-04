@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Production Note: Jesus Strong and Kind"
+title: "Jesus Strong and Kind"
 date: 2020-01-03 11:59:59 -0800
 image: 
   path: /images/2020/01/03/jesus-strong-and-kind-banner.jpg

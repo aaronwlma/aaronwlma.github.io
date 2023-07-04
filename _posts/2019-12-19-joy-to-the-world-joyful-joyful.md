@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Production Note: Joy to the World (Joyful, Joyful)"
+title: "Joy to the World (Joyful, Joyful)"
 date: 2019-12-19 11:59:59 -0800
 image: 
   path: /images/2019/12/19/joy-to-the-world-joyful-joyful-banner.jpg
