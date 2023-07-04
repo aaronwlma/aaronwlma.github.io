@@ -34,10 +34,13 @@ google_fonts:
     weights: "400,400i,700,700i"
 # twitter_username: jekyllrb
 # github_username:  aaronwlma
+paginate: 10  # amount of posts to show per page
+paginate_path: /page-:num/
 
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Site Author
 author: 
