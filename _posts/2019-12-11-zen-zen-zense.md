@@ -24,7 +24,7 @@ As this recording is a primarily a transcription of JHMJam’s arrangement, plea
             frameborder="0">
         </iframe>
     </div>
-    <figcaption><i>Kimi no Na Wa - Zen Zen Zense (Kamaso Ver. ft Phillip Zachariah</i></figcaption>
+    <figcaption><i>Kimi no Na Wa - Zen Zen Zense (Kamaso Ver. ft Phillip Zachariah)</i></figcaption>
 </figure>
 
 <hr>
