@@ -8,7 +8,6 @@ image:
 categories: blog
 tags:
   - arrangement
-  - tabi-mix
   - anime
 excerpt: "Arrangement notes for my transcription of Heion Naru Hibi from Kyoto Animation’s Hibike! Euphonium series."
 ---

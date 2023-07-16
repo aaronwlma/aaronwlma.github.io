@@ -8,7 +8,6 @@ image:
 categories: blog
 tags:
   - arrangement
-  - kamaso quartet
   - anime
 excerpt: "Arrangement notes for my transcription of Oukasuru Wakamono from Kyoto Animations’s Hibike! Euphonium series."
 ---
