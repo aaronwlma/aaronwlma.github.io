@@ -3,8 +3,8 @@ layout: post
 title: "My Jesus, I Love Thee"
 date: 2019-09-02 11:59:59 -0800
 image: 
-  path: /images/2019/09/02/my-jesus-i-love-thee-banner.png
-  thumbnail: /images/2019/09/02/my-jesus-i-love-thee-banner.png
+  path: /images/2019/09/02/my-jesus-i-love-thee-banner.jpg
+  thumbnail: /images/2019/09/02/my-jesus-i-love-thee-banner.jpg
 categories: blog
 tags:
   - production
