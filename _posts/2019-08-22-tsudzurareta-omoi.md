@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tsudzurareta Omoi"
-date: 2019-09-02 11:59:59 -0800
+date: 2019-08-22 11:59:59 -0800
 image: 
   path: /images/2019/08/22/tsudzurareta-omoi-banner.jpg
   thumbnail: /images/2019/08/22/tsudzurareta-omoi-banner.jpg
