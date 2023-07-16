@@ -13,8 +13,6 @@ tags:
 excerpt: "Arrangement and recording notes for Tsudzurareta Omoi from Kyoto Animation’s Hibike! Euphonium series."
 ---
 
-As this recording is a transcription of Sacloud’s arrangement, please refer to his  [YouTube channel](https://www.youtube.com/channel/UCCelkxNhElUs7q0woxBV6tQ) for the sheets.
-
 <figure class="align-center" style="margin:0px;padding:0px;overflow:hidden">
     <div style="text-align: center;">
         <iframe
