@@ -18,7 +18,7 @@ excerpt: "Arrangement notes for my country-style approach to Tommy Walker’s ve
         controls
         preload
         class="align-center"
-        src="/assets/2019/09/02/my-jesus-i-love-thee-demo.mp3">
+        src="/assets/2019/09/02/my-jesus-i-love-thee-live-demo.mp3">
     </audio>
     <figcaption><i>My Jesus, I Love Thee (Live Demo)</i></figcaption>
 </figure>
