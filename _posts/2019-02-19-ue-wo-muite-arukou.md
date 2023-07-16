@@ -39,4 +39,4 @@ But let’s not end on a flat note (heh).  I really appreciated the simplicity o
 
 **Time Spent:**  4.5 Hours
 **Arranged For:**  2 Violins, 2 Cellos
-**Estimated Song Length*:**  2 Minutes 44 Seconds
+**Estimated Song Length:**  2 Minutes 44 Seconds
