@@ -7,7 +7,7 @@ image:
   thumbnail: /images/2019/09/02/my-jesus-i-love-thee-banner.jpg
 categories: blog
 tags:
-  - production
+  - arrangement
   - fcbc walnut
   - worship
 excerpt: "Arrangement notes for my country-style approach to Tommy Walker’s version of My Jesus, I Love Thee."

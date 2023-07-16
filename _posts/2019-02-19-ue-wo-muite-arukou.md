@@ -7,7 +7,7 @@ image:
   thumbnail: /images/2019/02/19/ue-wo-muite-arukou-banner.jpg
 categories: blog
 tags:
-  - production
+  - arrangement
   - kamaso quartet
   - anime
 excerpt: "Arrangement notes for my take on Ue wo Muite Arukou by Sakamoto Kyu."

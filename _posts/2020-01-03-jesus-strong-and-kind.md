@@ -7,7 +7,7 @@ image:
   thumbnail: /images/2020/01/03/jesus-strong-and-kind-banner.jpg
 categories: blog
 tags:
-  - production
+  - arrangement
   - worship
   - fcbc walnut
 excerpt: "Build, Run, Counter.  For the last worship set of December, I used my standard steroid set to elevate CityAlight’s most recent song, “Jesus, Strong and Kind.”  In this production note, I highlight how I interpreted the intent of the piece, and how I used that interpretation to elevate the song for the purpose of facilitating a better space of wholehearted worship."

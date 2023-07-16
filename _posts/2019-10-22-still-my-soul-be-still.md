@@ -7,7 +7,7 @@ image:
   thumbnail: /images/2019/10/22/still-my-soul-be-still-banner.png
 categories: blog
 tags:
-  - production
+  - arrangement
   - fcbc walnut
   - worship
 excerpt: "Embrace what is given to you so that you can return it back.  In order to be a part of the creative process, creators must take ideas they cherish and loathe and weave them seamlessly together to create something new.  In this production note of Keith and Kristyn Getty’s “Still My Soul, Be Still,” I provide a glimpse into how I take my experiences and apply them into the music that I arrange."

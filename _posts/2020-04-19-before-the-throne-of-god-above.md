@@ -7,7 +7,7 @@ image:
   thumbnail: /images/2020/04/19/before-the-throne-of-god-above-banner.png
 categories: blog
 tags:
-  - production
+  - arrangement
   - worship
   - fcbc walnut
 excerpt: "Another week, another project. Inspiration comes in all shapes and sizes. In this production note of my revision of “Before the Throne of God Above,” I point out a few of my points of inspiration when it came to writing."

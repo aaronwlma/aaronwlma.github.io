@@ -7,7 +7,7 @@ image:
   thumbnail: /images/2020/06/23/my-life-is-an-offering-banner.png
 categories: blog
 tags:
-  - production
+  - arrangement
   - worship
   - fcbc walnut
 excerpt: "Alas, it is finally time for me to bust out the country fiddlin’. In this production of note of “My Life is An Offering,” I go through five key vibes that I kept in mind as I wrote in a style that I normally don’t write in for FCBC Walnut’s remote worship recordings."

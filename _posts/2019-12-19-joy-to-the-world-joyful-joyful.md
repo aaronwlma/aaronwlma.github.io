@@ -7,7 +7,7 @@ image:
   thumbnail: /images/2019/12/19/joy-to-the-world-joyful-joyful-banner.jpg
 categories: blog
 tags:
-  - production
+  - arrangement
   - worship
   - fcbc walnut
 excerpt: "Sometimes, doing your very best speaks volumes more than being the best.  This past weekend, I wrote and participated in two arrangements for FCBC Walnut’s In-Transit Christmas party.  This is the first of the two production notes where I detail some of the musical and collaborative intent that our team aimed for."
