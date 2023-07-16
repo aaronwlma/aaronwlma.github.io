@@ -53,7 +53,7 @@ The cello also enters during the perfect interval parts, and there’s this love
 And then what happens?  Boom, major drop.  Specifically, a major third with E and G.  With a bunch (and I mean, a BUNCH) of strings.  All that messy ambiguity created with the piano and cello from before?  Resolved.  On a major third.  At last, we got our direction, our feelings, and our expression from Matsuda Akito.  **Coupling the interval selection of a major third with the color of a string group, the cathartic release when the strings come creates quite the musical frisson.**
 
 <figure class="align-center">
-    <img src="/images/2019/08/22/figure-2-major-third-in-the-string-group-relative-to-the-piano-part.jpg" alt="">
+    <img src="/images/2019/08/22/figure-2-major-third-in-the-string-group-relative-to-the-piano-part.png" alt="">
     <figcaption><i>Figure 2: Major third in the string group relative to the piano part to create a cathartic release of the pent-up ambiguity</i></figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ So, different from most of the recordings I’ve post-processed, I kept and ampl
 Now on to the cello.  Being a violinist myself, I knew how the cello’s melodic line could be easily segmented in to note-to-note phrases.  And so, I wrote slurs in to encourage the cellist to avoid that, and to partition his or her bow accordingly.  Yes, the resulting bowing is harder, but the trade-off for the difficulty was a better phrase.  **A lot of times, when I write bowing marks in, I am deciding between difficulty and phrase, and, depending on the affected musicians and importance of the performance, I pen them in accordingly.**
 
 <figure class="align-center">
-    <img src="/images/2019/08/22/figure-3-bowing-marks-in-the-cello-solo-part-to-encourage-a-long-balanced-phrase.jpg" alt="">
+    <img src="/images/2019/08/22/figure-3-bowing-marks-in-the-cello-solo-part-to-encourage-a-long-balanced-phrase.png" alt="">
     <figcaption><i>Figure 3: Bowing marks in the cello solo part to encourage a long, balanced phrase.</i></figcaption>
 </figure>
 
