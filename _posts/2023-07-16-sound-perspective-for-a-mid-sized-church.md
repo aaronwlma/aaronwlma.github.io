@@ -12,7 +12,7 @@ tags:
 excerpt: "Three mantras to guide you in your adventures toward bettering the worship experience in a mid-sized church."
 ---
 
-If you attend a church with anything between 100 to 1000 attendees, chances are, your church is using amplified sound for its worship service.  If you attend a church with an AV team comprised of volunteers, chances are, your church struggles to produce a consistent house mix that satisfies everyone.  If you attend a church post-COVID, chances are, recordings (whether livestreams or worship tapes) have lit your worship team's interest in making the house mix better.
+If you attend a church with anything between 100 to 1000 attendees, your church is probably using amplified sound for its worship service.  If you attend a church with an AV team comprised of volunteers, your church may be struggling to produce a consistent house mix that satisfies everyone.  If you attend a church post-COVID, your church's worship team may have a newfound interest in making the house mix better after exposure to recordings (whether livestreams or worship tapes).
 
 Striving for excellence is good.  After all, who *doesn't* want a better worship experience?  There is nothing inherently wrong with that goal and direction.  However, before the worship ministries collectively embark on that journey to improve, it is important for the ministries to visit home to lock in what success looks like and what it will cost to get there.  **A shaky foundation to build upon and a hazy vision to pursue will inevitably lead a worship ministry to end up mistaking motion for progress.** 
 
