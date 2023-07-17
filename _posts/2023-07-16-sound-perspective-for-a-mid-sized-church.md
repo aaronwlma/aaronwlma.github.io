@@ -3,8 +3,8 @@ layout: post
 title: "Sound Perspective for a Mid-Sized Church"
 date: 2023-07-10 11:59:59 -0800
 image: 
-  path: /images/2023/07/10/on-sound-perspective-for-a-mid-sized-church-banner.png
-  thumbnail: /images/2023/07/10/on-sound-perspective-for-a-mid-sized-church-banner.png
+  path: /images/2023/07/16/sound-perspective-for-a-mid-sized-church-banner.jpg
+  thumbnail: /images/2023/07/16/sound-perspective-for-a-mid-sized-church-banner.jpg
 categories: blog
 tags:
   - worship
@@ -14,10 +14,12 @@ excerpt: "Three mantras to guide you in your adventures toward bettering the wor
 
 If you attend a church with anything between 100 to 1000 attendees, chances are, your church is using amplified sound for its worship service.  If you attend a church with an AV team comprised of volunteers, chances are, your church struggles to produce a consistent house mix that satisfies everyone.  If you attend a church post-COVID, chances are, recordings (whether livestreams or worship tapes) have lit your worship team's interest in making the house mix better.
 
-Striving for excellence is good.  After all, who *doesn't* want a better worship experience?  There is nothing inherently wrong with that goal and direction.  However, before the worship ministries collectively embark on that journey to improve, it is important for the ministries to visit home to lock in what success looks like and what it will cost to get there.  WIP
+Striving for excellence is good.  After all, who *doesn't* want a better worship experience?  There is nothing inherently wrong with that goal and direction.  However, before the worship ministries collectively embark on that journey to improve, it is important for the ministries to visit home to lock in what success looks like and what it will cost to get there.  A shaky foundation to build on and a hazy vision to pursue will inevitably lead a worship ministry to end up mistaking motion for progress. 
 
 # The Status Quo
-WIP
+And so, let's start with the foundation.  Back to the first paragraph, if you are attending a mid-sized church, chances are, your church uses amplified sound.  This is important, because without amplified sound, it is a rather difficult task to conduct a weekly Sunday service without destroying the vocal chords of pastors and singers alike.  It is specifically because of this that AV teams are formed.  They exist to amplify the Sunday stage.
+
+There can be many, many things wrong behind-the-scenes, but the core task that AV teams must fulfill from Sunday to Sunday is getting that tiny sound on stage to be a big sound.  This is the foundation, and this is 90% of AV's job.  Let's dial in on that a little more.
 
 ### The 90%
 The Sunday service workflow for many AV teams at mid-sized churches is usually pretty straightforward:
@@ -49,7 +51,7 @@ However, if and when a worship ministry is ready (and willing), a healthy approa
 With that said, the 10% is built on a solid 90%, and the 90% is very often overlooked.  To help folks retain a healthy mindset in their journey to take the church's worship experience to the next level, I've prepared three mantras that I typically use to keep my expectations in check, and to stay laser-focused on what success means.  Hopefully, they may be useful to you as well.
 
 ### "You know you are doing a good job when nobody notices you"
-Most AV teams are pretty familiar with this one.  When the folks behind the PowerPoint are late to flip a slide, or when the folks behind the soundboard are late to unmute an important mic, heads turn.  The PowerPoint or soundboard folk then feels the judgment of 500+ individuals as they let the adrenaline rush through their veins, and that is when we truly know what "Jesus take the wheel" means, because our bodies just move to solve the problem, somehow.  This is generally the kind of scenario that folks think about when they hear "you know you are doing a good job when nobody notices you."
+Most AV teams are pretty familiar with this one.  When the folks behind the PowerPoint are late to flip a slide, or when the folks behind the soundboard are late to unmute an important mic, heads turn.  The PowerPoint or soundboard folk then feels the judgment of 500+ individuals as they let the adrenaline rush through their veins, and that is when we truly know what "Jesus take the wheel" means, because our bodies just move to solve the problem, somehow.  This is generally the kind of scenario that folks think to avoid when they hear "you know you are doing a good job when nobody notices you."
 
 But that is really only just half of what this phrase means.  If you manage to operate in this manner where the congregation does not notice your efforts, then you've done the 90%.  The remaining 10% is serving in a manner where your own fellow ministry members do not notice you.
 
@@ -75,9 +77,28 @@ You can read about what gain/EQ/compression/effects are, you can watch YouTube t
 So treat getting to the next level on the soundboard like learning a musical instrument.  You can easily download a free digital workstation (i.e., Reaper), load up some samples, work on your mix, and then export the result and have your trusted individuals provide feedback.  In that process, you will learn where the limitations are, the things you want to do but don't know how, the way sound clutters a soundspace, and many more.  Find some solutions and give them a try.  And then share your results (and get roasted).  And then do it again, and again, and again.  Practice mixing on your own, and that practice will direcly translate over to a better mix on Sunday morning.
 
 ### "Worship team is two teams--music and AV"
+Call me pedantic, but I personally don't like how churches of the current era call their music teams "worship team."  It implies that it is the team of musicians on stage that bring the worship experience to the congregation.  This is only half of the contribution.  The other half is delivered by the AV team.
 
+While the music team themselves are the creators that handle the providing the input, the AV team themselves are the amplifiers are handle delivering the said input.  Without the input *and* the output, there is no experience.  Collectively, the music and AV teams create the worship experience, and that's why I prefer to call "worship team" the "music team."  The are two teams serving as one collaborative.
 
+Now, if it is the case that the worship team is actually two teams comprised of music and AV divisions, there are some implications here that I think are good to point out.
+
+The first is that the soundboard-ist(?) should view themselves as part of the music band themselves.  As a violinist on stage, I know what the drummer is there for.  The drummer provides the beat and energy, and I mirror it.  I know when we are building to a high because the drummer will play in a manner to suggest we are building to a high.  I don't know how to play the drums myself, but I know what the drummer is there for.  I also know what the vocalists are there for.  And the guitarists, and the bassists, etc.
+
+In the same way, the soundboard-ist needs to know what the band members are there for.  They need to also be accustomed to picking up the cues and throw their faders in response to that.  If worship team is one team, then the person behind the soundboard should aim to be connected to the stage and its happenings.  Capture the intent of each of your band members, and amplify their expression to let them shine when they intend to.
+
+The second implication of this is that the teams must extend mutual trust and respect to each other as if they are fellow band members.  Again, as a violinist on stage, I do make a fair amount of mistakes.  Awkward keys and muddy direction can take a toll on my ability to play in tune.  I have my own ways of practice to be better at this, but at no point will any of the band members come over mid-set and take my violin to play in my stead.
+
+Instead, there are respectful, contextual ways to work through obstacles like these.  Vocalist misses their cues all the time?  No problem, let me see if I can play in a manner that is more obvious where the downbeat is for the vocalist.  Note is hard to hit for the vocalist?  No problem, I'll double you to give you a pitch reference and to give you confidence.  And when I have exhausted all my options, and the problem is still unbearably bad, no problem, let's have a conversation when all is done and stress of the service day is done.  Let's see what we can do.
+
+The relationship between the one behind the soundboard and the band should be similar.  At no point should anyone reach and play the soundboard in their stead.  If the person behind the soundboard is struggling to pick out the lead line, then think about how you can play the lead line to make it clearer (if your expression isn't clear to the one actively listening, then would it be clear to the congregation, who isn't focusing on you?).  Exhaust your options, and if the problem is still unbearably bad, no problem, have a conversation when all is done and the stress of the service day is done, and see what we can do.
+
+When the music team views AV as part of the team, and when AV views music team as part of the team, they will naturally extend their trust, respect, and empathy that they already have for fellow team members across the stage boundary.  When the music team views AV as part of the team, and when AV views music team as part of the team, then "the work that needs to be done" becomes clear.  Creating a worship experience on the next level is a collaborative task, and viewing the music and AV teams as one collective will generate a sustainable and respectful path towards it.
 
 # Final Thoughts
+And so, to sum it all up, conquering the 10% (making the front-of-house mix sound *better*) requires the full attention of the AV team.  Because it requires the full attention, AV teams should make sure to verify that the 90% (fulfilling the fundamental need of an AV team in a mid-sized church) is solidly in place before looking to tackle the 10%.  Without solid fundamentals, AV teams quickly devolve into creating more problems than they started and risk cultivating a ministry culture that does not build the community of Christ.
 
+But if an AV team verifies the 90% and believes that it is a good time to tackle the 10%, the AV team needs to confirm the buy-in of the music team.  Both teams will need to extend trust, respect, and empathy towards one another and consider each other as one team.  From that perspective, the work that needs to be done (both relational and technical) will become clear.  From there, it is just a matter of putting in due diligence to put in the hours and iterations to develop experience.  If there is that safe space to build experience, then over time, I believe that churches that rely on volunteer members to deliver the worship experience to the congregation will be able to sustainably elevate the experience in a scalable and glorifying manner.
+
+Best of luck!
 
