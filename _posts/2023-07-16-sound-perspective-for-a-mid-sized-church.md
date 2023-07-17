@@ -23,12 +23,12 @@ There can be many, many things wrong behind-the-scenes, but the core task that A
 
 ### The 90%
 The Sunday service workflow for many AV teams at mid-sized churches is usually pretty straightforward:
-1. Setup (plug everything into your soundboard, including instruments, mics, speakers, and monitors)
-2. Line Check (verify that signals are coming in where they expect, and going out to where they expect)
-3. Gain Stage (set faders and baseline the gain values on the mixer to provide sufficient headroom for both music and AV teams)
-4. Sound Check (make the sound in the house pretty)
-5. Run Service (throw faders and mute/unmute things in a timely manner during the service)
-6. Teardown (unplug everything and put things back they way they first were)
+1. **Setup** (plug everything into your soundboard, including instruments, mics, speakers, and monitors)
+2. **Line Check** (verify that signals are coming in where they expect, and going out to where they expect)
+3. **Gain Stage** (set faders and baseline the gain values on the mixer to provide sufficient headroom for both music and AV teams)
+4. **Sound Check** (make the sound in the house pretty)
+5. **Run Service** (throw faders and mute/unmute things in a timely manner during the service)
+6. **Teardown** (unplug everything and put things back they way they first were)
 
 Five out of the six (1-3, 5-6) are quite straight-forward and quite teachable.  It is relatively simple to ramp someone up on how to setup/teardown (plug/unplug things here and there), how to line check (do you see green bars and hear things), how to gain stage (is it loud enough), and how to run the Sunday service (press unmute when the pastor walks up).  This is traditionally why AV teams, when looking for help, will advertise with the phrase, "no experience required."
 
