@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sound Perspective for a Mid-Sized Church"
-date: 2023-07-10 11:59:59 -0800
+date: 2023-07-16 11:59:59 -0800
 image: 
   path: /images/2023/07/16/sound-perspective-for-a-mid-sized-church-banner.jpg
   thumbnail: /images/2023/07/16/sound-perspective-for-a-mid-sized-church-banner.jpg
